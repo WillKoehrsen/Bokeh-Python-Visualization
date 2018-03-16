@@ -1,0 +1,769 @@
+,color,f_interval,f_proportion,left,name,proportion,right
+0,#c5b0d5,-120 to -115 minutes,0.00000,-120.0,AirTran Airways Corporation,0.0,-115.0
+1,#c5b0d5,-115 to -110 minutes,0.00000,-115.0,AirTran Airways Corporation,0.0,-110.0
+2,#c5b0d5,-110 to -105 minutes,0.00000,-110.0,AirTran Airways Corporation,0.0,-105.0
+3,#c5b0d5,-105 to -100 minutes,0.00000,-105.0,AirTran Airways Corporation,0.0,-100.0
+4,#c5b0d5,-100 to -95 minutes,0.00000,-100.0,AirTran Airways Corporation,0.0,-95.0
+5,#c5b0d5,-95 to -90 minutes,0.00000,-95.0,AirTran Airways Corporation,0.0,-90.0
+6,#c5b0d5,-90 to -85 minutes,0.00000,-90.0,AirTran Airways Corporation,0.0,-85.0
+7,#c5b0d5,-85 to -80 minutes,0.00000,-85.0,AirTran Airways Corporation,0.0,-80.0
+8,#c5b0d5,-80 to -75 minutes,0.00000,-80.0,AirTran Airways Corporation,0.0,-75.0
+9,#c5b0d5,-75 to -70 minutes,0.00000,-75.0,AirTran Airways Corporation,0.0,-70.0
+10,#c5b0d5,-70 to -65 minutes,0.00000,-70.0,AirTran Airways Corporation,0.0,-65.0
+11,#c5b0d5,-65 to -60 minutes,0.00000,-65.0,AirTran Airways Corporation,0.0,-60.0
+12,#c5b0d5,-60 to -55 minutes,0.00000,-60.0,AirTran Airways Corporation,0.0,-55.0
+13,#c5b0d5,-55 to -50 minutes,0.00000,-55.0,AirTran Airways Corporation,0.0,-50.0
+14,#c5b0d5,-50 to -45 minutes,0.00000,-50.0,AirTran Airways Corporation,0.0,-45.0
+15,#c5b0d5,-45 to -40 minutes,0.00166,-45.0,AirTran Airways Corporation,0.0016550810989738498,-40.0
+16,#c5b0d5,-40 to -35 minutes,0.00166,-40.0,AirTran Airways Corporation,0.0016550810989738498,-35.0
+17,#c5b0d5,-35 to -30 minutes,0.00497,-35.0,AirTran Airways Corporation,0.004965243296921549,-30.0
+18,#c5b0d5,-30 to -25 minutes,0.01589,-30.0,AirTran Airways Corporation,0.015888778550148957,-25.0
+19,#c5b0d5,-25 to -20 minutes,0.03178,-25.0,AirTran Airways Corporation,0.031777557100297914,-20.0
+20,#c5b0d5,-20 to -15 minutes,0.05627,-20.0,AirTran Airways Corporation,0.05627275736511089,-15.0
+21,#c5b0d5,-15 to -10 minutes,0.08375,-15.0,AirTran Airways Corporation,0.0837471036080768,-10.0
+22,#c5b0d5,-10 to -5 minutes,0.09732,-10.0,AirTran Airways Corporation,0.09731876861966236,-5.0
+23,#c5b0d5,-5 to 0 minutes,0.10758,-5.0,AirTran Airways Corporation,0.10758027143330023,0.0
+24,#c5b0d5,0 to 5 minutes,0.11255,0.0,AirTran Airways Corporation,0.11254551473022179,5.0
+25,#c5b0d5,5 to 10 minutes,0.09004,5.0,AirTran Airways Corporation,0.09003641178417743,10.0
+26,#c5b0d5,10 to 15 minutes,0.08342,10.0,AirTran Airways Corporation,0.08341608738828203,15.0
+27,#c5b0d5,15 to 20 minutes,0.05727,15.0,AirTran Airways Corporation,0.0572658060244952,20.0
+28,#c5b0d5,20 to 25 minutes,0.04535,20.0,AirTran Airways Corporation,0.04534922211188348,25.0
+29,#c5b0d5,25 to 30 minutes,0.03443,25.0,AirTran Airways Corporation,0.034425686858656074,30.0
+30,#c5b0d5,30 to 35 minutes,0.02582,30.0,AirTran Airways Corporation,0.025819265143992055,35.0
+31,#c5b0d5,35 to 40 minutes,0.01986,35.0,AirTran Airways Corporation,0.019860973187686197,40.0
+32,#c5b0d5,40 to 45 minutes,0.01887,40.0,AirTran Airways Corporation,0.018867924528301886,45.0
+33,#c5b0d5,45 to 50 minutes,0.01423,45.0,AirTran Airways Corporation,0.014233697451175108,50.0
+34,#c5b0d5,50 to 55 minutes,0.01291,50.0,AirTran Airways Corporation,0.012909632571996028,55.0
+35,#c5b0d5,55 to 60 minutes,0.01390,55.0,AirTran Airways Corporation,0.013902681231380337,60.0
+36,#c5b0d5,60 to 65 minutes,0.00828,60.0,AirTran Airways Corporation,0.00827540549486925,65.0
+37,#c5b0d5,65 to 70 minutes,0.00794,65.0,AirTran Airways Corporation,0.007944389275074478,70.0
+38,#c5b0d5,70 to 75 minutes,0.00794,70.0,AirTran Airways Corporation,0.007944389275074478,75.0
+39,#c5b0d5,75 to 80 minutes,0.00761,75.0,AirTran Airways Corporation,0.007613373055279708,80.0
+40,#c5b0d5,80 to 85 minutes,0.00629,80.0,AirTran Airways Corporation,0.006289308176100629,85.0
+41,#c5b0d5,85 to 90 minutes,0.00497,85.0,AirTran Airways Corporation,0.004965243296921549,90.0
+42,#c5b0d5,90 to 95 minutes,0.00761,90.0,AirTran Airways Corporation,0.007613373055279708,95.0
+43,#c5b0d5,95 to 100 minutes,0.00265,95.0,AirTran Airways Corporation,0.0026481297583581596,100.0
+44,#c5b0d5,100 to 105 minutes,0.00397,100.0,AirTran Airways Corporation,0.003972194637537239,105.0
+45,#c5b0d5,105 to 110 minutes,0.00331,105.0,AirTran Airways Corporation,0.0033101621979476996,110.0
+46,#c5b0d5,110 to 115 minutes,0.00463,110.0,AirTran Airways Corporation,0.004634227077126779,115.0
+47,#c5b0d5,115 to 120 minutes,0.00530,115.0,AirTran Airways Corporation,0.005296259516716319,120.0
+0,#8c564b,-120 to -115 minutes,0.00000,-120.0,Alaska Airlines Inc.,0.0,-115.0
+1,#8c564b,-115 to -110 minutes,0.00000,-115.0,Alaska Airlines Inc.,0.0,-110.0
+2,#8c564b,-110 to -105 minutes,0.00000,-110.0,Alaska Airlines Inc.,0.0,-105.0
+3,#8c564b,-105 to -100 minutes,0.00000,-105.0,Alaska Airlines Inc.,0.0,-100.0
+4,#8c564b,-100 to -95 minutes,0.00000,-100.0,Alaska Airlines Inc.,0.0,-95.0
+5,#8c564b,-95 to -90 minutes,0.00000,-95.0,Alaska Airlines Inc.,0.0,-90.0
+6,#8c564b,-90 to -85 minutes,0.00000,-90.0,Alaska Airlines Inc.,0.0,-85.0
+7,#8c564b,-85 to -80 minutes,0.00000,-85.0,Alaska Airlines Inc.,0.0,-80.0
+8,#8c564b,-80 to -75 minutes,0.00000,-80.0,Alaska Airlines Inc.,0.0,-75.0
+9,#8c564b,-75 to -70 minutes,0.00143,-75.0,Alaska Airlines Inc.,0.0014326647564469914,-70.0
+10,#8c564b,-70 to -65 minutes,0.00143,-70.0,Alaska Airlines Inc.,0.0014326647564469914,-65.0
+11,#8c564b,-65 to -60 minutes,0.01003,-65.0,Alaska Airlines Inc.,0.01002865329512894,-60.0
+12,#8c564b,-60 to -55 minutes,0.00573,-60.0,Alaska Airlines Inc.,0.0057306590257879654,-55.0
+13,#8c564b,-55 to -50 minutes,0.02436,-55.0,Alaska Airlines Inc.,0.024355300859598854,-50.0
+14,#8c564b,-50 to -45 minutes,0.03295,-50.0,Alaska Airlines Inc.,0.0329512893982808,-45.0
+15,#8c564b,-45 to -40 minutes,0.05731,-45.0,Alaska Airlines Inc.,0.05730659025787966,-40.0
+16,#8c564b,-40 to -35 minutes,0.07020,-40.0,Alaska Airlines Inc.,0.07020057306590258,-35.0
+17,#8c564b,-35 to -30 minutes,0.07736,-35.0,Alaska Airlines Inc.,0.07736389684813753,-30.0
+18,#8c564b,-30 to -25 minutes,0.08453,-30.0,Alaska Airlines Inc.,0.08452722063037249,-25.0
+19,#8c564b,-25 to -20 minutes,0.09312,-25.0,Alaska Airlines Inc.,0.09312320916905444,-20.0
+20,#8c564b,-20 to -15 minutes,0.08309,-20.0,Alaska Airlines Inc.,0.0830945558739255,-15.0
+21,#8c564b,-15 to -10 minutes,0.08023,-15.0,Alaska Airlines Inc.,0.08022922636103152,-10.0
+22,#8c564b,-10 to -5 minutes,0.07020,-10.0,Alaska Airlines Inc.,0.07020057306590258,-5.0
+23,#8c564b,-5 to 0 minutes,0.04155,-5.0,Alaska Airlines Inc.,0.04154727793696275,0.0
+24,#8c564b,0 to 5 minutes,0.05444,0.0,Alaska Airlines Inc.,0.054441260744985676,5.0
+25,#8c564b,5 to 10 minutes,0.03438,5.0,Alaska Airlines Inc.,0.034383954154727794,10.0
+26,#8c564b,10 to 15 minutes,0.04441,10.0,Alaska Airlines Inc.,0.044412607449856735,15.0
+27,#8c564b,15 to 20 minutes,0.02579,15.0,Alaska Airlines Inc.,0.025787965616045846,20.0
+28,#8c564b,20 to 25 minutes,0.01576,20.0,Alaska Airlines Inc.,0.015759312320916905,25.0
+29,#8c564b,25 to 30 minutes,0.01289,25.0,Alaska Airlines Inc.,0.012893982808022923,30.0
+30,#8c564b,30 to 35 minutes,0.01146,30.0,Alaska Airlines Inc.,0.011461318051575931,35.0
+31,#8c564b,35 to 40 minutes,0.00860,35.0,Alaska Airlines Inc.,0.008595988538681949,40.0
+32,#8c564b,40 to 45 minutes,0.01003,40.0,Alaska Airlines Inc.,0.01002865329512894,45.0
+33,#8c564b,45 to 50 minutes,0.01003,45.0,Alaska Airlines Inc.,0.01002865329512894,50.0
+34,#8c564b,50 to 55 minutes,0.00287,50.0,Alaska Airlines Inc.,0.0028653295128939827,55.0
+35,#8c564b,55 to 60 minutes,0.00430,55.0,Alaska Airlines Inc.,0.004297994269340974,60.0
+36,#8c564b,60 to 65 minutes,0.00287,60.0,Alaska Airlines Inc.,0.0028653295128939827,65.0
+37,#8c564b,65 to 70 minutes,0.00430,65.0,Alaska Airlines Inc.,0.004297994269340974,70.0
+38,#8c564b,70 to 75 minutes,0.00000,70.0,Alaska Airlines Inc.,0.0,75.0
+39,#8c564b,75 to 80 minutes,0.00143,75.0,Alaska Airlines Inc.,0.0014326647564469914,80.0
+40,#8c564b,80 to 85 minutes,0.00000,80.0,Alaska Airlines Inc.,0.0,85.0
+41,#8c564b,85 to 90 minutes,0.00430,85.0,Alaska Airlines Inc.,0.004297994269340974,90.0
+42,#8c564b,90 to 95 minutes,0.00573,90.0,Alaska Airlines Inc.,0.0057306590257879654,95.0
+43,#8c564b,95 to 100 minutes,0.00143,95.0,Alaska Airlines Inc.,0.0014326647564469914,100.0
+44,#8c564b,100 to 105 minutes,0.00430,100.0,Alaska Airlines Inc.,0.004297994269340974,105.0
+45,#8c564b,105 to 110 minutes,0.00143,105.0,Alaska Airlines Inc.,0.0014326647564469914,110.0
+46,#8c564b,110 to 115 minutes,0.00143,110.0,Alaska Airlines Inc.,0.0014326647564469914,115.0
+47,#8c564b,115 to 120 minutes,0.00430,115.0,Alaska Airlines Inc.,0.004297994269340974,120.0
+0,#aec7e8,-120 to -115 minutes,0.00000,-120.0,American Airlines Inc.,0.0,-115.0
+1,#aec7e8,-115 to -110 minutes,0.00000,-115.0,American Airlines Inc.,0.0,-110.0
+2,#aec7e8,-110 to -105 minutes,0.00000,-110.0,American Airlines Inc.,0.0,-105.0
+3,#aec7e8,-105 to -100 minutes,0.00000,-105.0,American Airlines Inc.,0.0,-100.0
+4,#aec7e8,-100 to -95 minutes,0.00000,-100.0,American Airlines Inc.,0.0,-95.0
+5,#aec7e8,-95 to -90 minutes,0.00000,-95.0,American Airlines Inc.,0.0,-90.0
+6,#aec7e8,-90 to -85 minutes,0.00000,-90.0,American Airlines Inc.,0.0,-85.0
+7,#aec7e8,-85 to -80 minutes,0.00000,-85.0,American Airlines Inc.,0.0,-80.0
+8,#aec7e8,-80 to -75 minutes,0.00000,-80.0,American Airlines Inc.,0.0,-75.0
+9,#aec7e8,-75 to -70 minutes,0.00003,-75.0,American Airlines Inc.,3.2031775521317146e-05,-70.0
+10,#aec7e8,-70 to -65 minutes,0.00013,-70.0,American Airlines Inc.,0.00012812710208526858,-65.0
+11,#aec7e8,-65 to -60 minutes,0.00054,-65.0,American Airlines Inc.,0.0005445401838623915,-60.0
+12,#aec7e8,-60 to -55 minutes,0.00167,-60.0,American Airlines Inc.,0.0016656523271084917,-55.0
+13,#aec7e8,-55 to -50 minutes,0.00388,-55.0,American Airlines Inc.,0.003875844838079375,-50.0
+14,#aec7e8,-50 to -45 minutes,0.00903,-50.0,American Airlines Inc.,0.009032960697011436,-45.0
+15,#aec7e8,-45 to -40 minutes,0.01858,-45.0,American Airlines Inc.,0.018578429802363947,-40.0
+16,#aec7e8,-40 to -35 minutes,0.03251,-40.0,American Airlines Inc.,0.0325122521541369,-35.0
+17,#aec7e8,-35 to -30 minutes,0.04930,-35.0,American Airlines Inc.,0.04929690252730709,-30.0
+18,#aec7e8,-30 to -25 minutes,0.06736,-30.0,American Airlines Inc.,0.06736282392132996,-25.0
+19,#aec7e8,-25 to -20 minutes,0.09248,-25.0,American Airlines Inc.,0.0924757359300426,-20.0
+20,#aec7e8,-20 to -15 minutes,0.10587,-20.0,American Airlines Inc.,0.10586501809795316,-15.0
+21,#aec7e8,-15 to -10 minutes,0.10731,-15.0,American Airlines Inc.,0.10730644799641244,-10.0
+22,#aec7e8,-10 to -5 minutes,0.09488,-10.0,American Airlines Inc.,0.09487811909414139,-5.0
+23,#aec7e8,-5 to 0 minutes,0.08171,-5.0,American Airlines Inc.,0.08171305935488005,0.0
+24,#aec7e8,0 to 5 minutes,0.06586,0.0,American Airlines Inc.,0.06585733047182805,5.0
+25,#aec7e8,5 to 10 minutes,0.05317,5.0,American Airlines Inc.,0.053172747365386464,10.0
+26,#aec7e8,10 to 15 minutes,0.04033,10.0,American Airlines Inc.,0.04032800538133829,15.0
+27,#aec7e8,15 to 20 minutes,0.02896,15.0,American Airlines Inc.,0.0289567250712707,20.0
+28,#aec7e8,20 to 25 minutes,0.02351,20.0,American Airlines Inc.,0.023511323232646784,25.0
+29,#aec7e8,25 to 30 minutes,0.02047,25.0,American Airlines Inc.,0.020468304558121656,30.0
+30,#aec7e8,30 to 35 minutes,0.01457,30.0,American Airlines Inc.,0.014574457862199302,35.0
+31,#aec7e8,35 to 40 minutes,0.01150,35.0,American Airlines Inc.,0.011499407412152855,40.0
+32,#aec7e8,40 to 45 minutes,0.00983,40.0,American Airlines Inc.,0.009833755085044363,45.0
+33,#aec7e8,45 to 50 minutes,0.00801,45.0,American Airlines Inc.,0.008007943880329287,50.0
+34,#aec7e8,50 to 55 minutes,0.00746,50.0,American Airlines Inc.,0.007463403696466895,55.0
+35,#aec7e8,55 to 60 minutes,0.00660,55.0,American Airlines Inc.,0.006598545757391332,60.0
+36,#aec7e8,60 to 65 minutes,0.00609,60.0,American Airlines Inc.,0.006086037349050258,65.0
+37,#aec7e8,65 to 70 minutes,0.00538,65.0,American Airlines Inc.,0.00538133828758128,70.0
+38,#aec7e8,70 to 75 minutes,0.00458,70.0,American Airlines Inc.,0.004580543899548352,75.0
+39,#aec7e8,75 to 80 minutes,0.00452,75.0,American Airlines Inc.,0.004516480348505718,80.0
+40,#aec7e8,80 to 85 minutes,0.00368,80.0,American Airlines Inc.,0.003683654184951472,85.0
+41,#aec7e8,85 to 90 minutes,0.00324,85.0,American Airlines Inc.,0.0032352093276530316,90.0
+42,#aec7e8,90 to 95 minutes,0.00282,90.0,American Airlines Inc.,0.0028187962458759088,95.0
+43,#aec7e8,95 to 100 minutes,0.00346,95.0,American Airlines Inc.,0.003459431756302252,100.0
+44,#aec7e8,100 to 105 minutes,0.00279,100.0,American Airlines Inc.,0.002786764470354592,105.0
+45,#aec7e8,105 to 110 minutes,0.00301,105.0,American Airlines Inc.,0.0030109868990038117,110.0
+46,#aec7e8,110 to 115 minutes,0.00259,110.0,American Airlines Inc.,0.002594573817226689,115.0
+47,#aec7e8,115 to 120 minutes,0.00231,115.0,American Airlines Inc.,0.0023062878375348346,120.0
+0,#ffbb78,-120 to -115 minutes,0.00000,-120.0,Delta Air Lines Inc.,0.0,-115.0
+1,#ffbb78,-115 to -110 minutes,0.00000,-115.0,Delta Air Lines Inc.,0.0,-110.0
+2,#ffbb78,-110 to -105 minutes,0.00000,-110.0,Delta Air Lines Inc.,0.0,-105.0
+3,#ffbb78,-105 to -100 minutes,0.00000,-105.0,Delta Air Lines Inc.,0.0,-100.0
+4,#ffbb78,-100 to -95 minutes,0.00000,-100.0,Delta Air Lines Inc.,0.0,-95.0
+5,#ffbb78,-95 to -90 minutes,0.00000,-95.0,Delta Air Lines Inc.,0.0,-90.0
+6,#ffbb78,-90 to -85 minutes,0.00000,-90.0,Delta Air Lines Inc.,0.0,-85.0
+7,#ffbb78,-85 to -80 minutes,0.00000,-85.0,Delta Air Lines Inc.,0.0,-80.0
+8,#ffbb78,-80 to -75 minutes,0.00000,-80.0,Delta Air Lines Inc.,0.0,-75.0
+9,#ffbb78,-75 to -70 minutes,0.00002,-75.0,Delta Air Lines Inc.,2.1497979189956143e-05,-70.0
+10,#ffbb78,-70 to -65 minutes,0.00028,-70.0,Delta Air Lines Inc.,0.0002794737294694299,-65.0
+11,#ffbb78,-65 to -60 minutes,0.00073,-65.0,Delta Air Lines Inc.,0.0007309312924585089,-60.0
+12,#ffbb78,-60 to -55 minutes,0.00138,-60.0,Delta Air Lines Inc.,0.0013758706681571932,-55.0
+13,#ffbb78,-55 to -50 minutes,0.00303,-55.0,Delta Air Lines Inc.,0.003031215065783816,-50.0
+14,#ffbb78,-50 to -45 minutes,0.00619,-50.0,Delta Air Lines Inc.,0.00619141800670737,-45.0
+15,#ffbb78,-45 to -40 minutes,0.01202,-45.0,Delta Air Lines Inc.,0.012017370367185485,-40.0
+16,#ffbb78,-40 to -35 minutes,0.02330,-40.0,Delta Air Lines Inc.,0.02330380944191246,-35.0
+17,#ffbb78,-35 to -30 minutes,0.04044,-35.0,Delta Air Lines Inc.,0.040437698856307505,-30.0
+18,#ffbb78,-30 to -25 minutes,0.06305,-30.0,Delta Air Lines Inc.,0.06305357296414137,-25.0
+19,#ffbb78,-25 to -20 minutes,0.08840,-25.0,Delta Air Lines Inc.,0.08839969042909966,-20.0
+20,#ffbb78,-20 to -15 minutes,0.10770,-20.0,Delta Air Lines Inc.,0.10770487574168028,-15.0
+21,#ffbb78,-15 to -10 minutes,0.11209,-15.0,Delta Air Lines Inc.,0.11209046349643134,-10.0
+22,#ffbb78,-10 to -5 minutes,0.10743,-10.0,Delta Air Lines Inc.,0.10742540201221085,-5.0
+23,#ffbb78,-5 to 0 minutes,0.08883,-5.0,Delta Air Lines Inc.,0.08882965001289879,0.0
+24,#ffbb78,0 to 5 minutes,0.07496,0.0,Delta Air Lines Inc.,0.07496345343537708,5.0
+25,#ffbb78,5 to 10 minutes,0.05682,5.0,Delta Air Lines Inc.,0.05681915899905409,10.0
+26,#ffbb78,10 to 15 minutes,0.04358,10.0,Delta Air Lines Inc.,0.04357640381804111,15.0
+27,#ffbb78,15 to 20 minutes,0.03242,15.0,Delta Air Lines Inc.,0.032418952618453865,20.0
+28,#ffbb78,20 to 25 minutes,0.02309,20.0,Delta Air Lines Inc.,0.0230888296500129,25.0
+29,#ffbb78,25 to 30 minutes,0.01690,25.0,Delta Air Lines Inc.,0.016897411643305528,30.0
+30,#ffbb78,30 to 35 minutes,0.01447,30.0,Delta Air Lines Inc.,0.014468139994840486,35.0
+31,#ffbb78,35 to 40 minutes,0.01139,35.0,Delta Air Lines Inc.,0.011393928970676757,40.0
+32,#ffbb78,40 to 45 minutes,0.00931,40.0,Delta Air Lines Inc.,0.00930862498925101,45.0
+33,#ffbb78,45 to 50 minutes,0.00884,45.0,Delta Air Lines Inc.,0.008835669447071976,50.0
+34,#ffbb78,50 to 55 minutes,0.00703,50.0,Delta Air Lines Inc.,0.007029839195115659,55.0
+35,#ffbb78,55 to 60 minutes,0.00686,55.0,Delta Air Lines Inc.,0.00685785536159601,60.0
+36,#ffbb78,60 to 65 minutes,0.00494,60.0,Delta Air Lines Inc.,0.004944535213689913,65.0
+37,#ffbb78,65 to 70 minutes,0.00503,65.0,Delta Air Lines Inc.,0.005030527130449738,70.0
+38,#ffbb78,70 to 75 minutes,0.00441,70.0,Delta Air Lines Inc.,0.004407085733941009,75.0
+39,#ffbb78,75 to 80 minutes,0.00376,75.0,Delta Air Lines Inc.,0.003762146358242325,80.0
+40,#ffbb78,80 to 85 minutes,0.00340,80.0,Delta Air Lines Inc.,0.003396680712013071,85.0
+41,#ffbb78,85 to 90 minutes,0.00329,85.0,Delta Air Lines Inc.,0.00328919081606329,90.0
+42,#ffbb78,90 to 95 minutes,0.00320,90.0,Delta Air Lines Inc.,0.0032031988993034654,95.0
+43,#ffbb78,95 to 100 minutes,0.00275,95.0,Delta Air Lines Inc.,0.0027517413363143863,100.0
+44,#ffbb78,100 to 105 minutes,0.00260,100.0,Delta Air Lines Inc.,0.0026012554819846933,105.0
+45,#ffbb78,105 to 110 minutes,0.00230,105.0,Delta Air Lines Inc.,0.0023002837733253076,110.0
+46,#ffbb78,110 to 115 minutes,0.00174,110.0,Delta Air Lines Inc.,0.0017413363143864477,115.0
+47,#ffbb78,115 to 120 minutes,0.00202,115.0,Delta Air Lines Inc.,0.0020208100438558778,120.0
+0,#c49c94,-120 to -115 minutes,0.00000,-120.0,Endeavor Air Inc.,0.0,-115.0
+1,#c49c94,-115 to -110 minutes,0.00000,-115.0,Endeavor Air Inc.,0.0,-110.0
+2,#c49c94,-110 to -105 minutes,0.00000,-110.0,Endeavor Air Inc.,0.0,-105.0
+3,#c49c94,-105 to -100 minutes,0.00000,-105.0,Endeavor Air Inc.,0.0,-100.0
+4,#c49c94,-100 to -95 minutes,0.00000,-100.0,Endeavor Air Inc.,0.0,-95.0
+5,#c49c94,-95 to -90 minutes,0.00000,-95.0,Endeavor Air Inc.,0.0,-90.0
+6,#c49c94,-90 to -85 minutes,0.00000,-90.0,Endeavor Air Inc.,0.0,-85.0
+7,#c49c94,-85 to -80 minutes,0.00000,-85.0,Endeavor Air Inc.,0.0,-80.0
+8,#c49c94,-80 to -75 minutes,0.00000,-80.0,Endeavor Air Inc.,0.0,-75.0
+9,#c49c94,-75 to -70 minutes,0.00000,-75.0,Endeavor Air Inc.,0.0,-70.0
+10,#c49c94,-70 to -65 minutes,0.00018,-70.0,Endeavor Air Inc.,0.0001808863430810974,-65.0
+11,#c49c94,-65 to -60 minutes,0.00024,-65.0,Endeavor Air Inc.,0.0002411817907747965,-60.0
+12,#c49c94,-60 to -55 minutes,0.00072,-60.0,Endeavor Air Inc.,0.0007235453723243896,-55.0
+13,#c49c94,-55 to -50 minutes,0.00289,-55.0,Endeavor Air Inc.,0.002894181489297558,-50.0
+14,#c49c94,-50 to -45 minutes,0.00748,-50.0,Endeavor Air Inc.,0.007476635514018692,-45.0
+15,#c49c94,-45 to -40 minutes,0.01519,-45.0,Endeavor Air Inc.,0.01519445281881218,-40.0
+16,#c49c94,-40 to -35 minutes,0.02888,-40.0,Endeavor Air Inc.,0.028881519445281882,-35.0
+17,#c49c94,-35 to -30 minutes,0.04926,-35.0,Endeavor Air Inc.,0.049261380765752184,-30.0
+18,#c49c94,-30 to -25 minutes,0.06916,-30.0,Endeavor Air Inc.,0.0691588785046729,-25.0
+19,#c49c94,-25 to -20 minutes,0.09304,-25.0,Endeavor Air Inc.,0.09303587579137775,-20.0
+20,#c49c94,-20 to -15 minutes,0.09931,-20.0,Endeavor Air Inc.,0.09930660235152246,-15.0
+21,#c49c94,-15 to -10 minutes,0.09774,-15.0,Endeavor Air Inc.,0.09773892071148628,-10.0
+22,#c49c94,-10 to -5 minutes,0.09123,-10.0,Endeavor Air Inc.,0.09122701236056678,-5.0
+23,#c49c94,-5 to 0 minutes,0.07356,-5.0,Endeavor Air Inc.,0.07356044618631294,0.0
+24,#c49c94,0 to 5 minutes,0.06295,0.0,Endeavor Air Inc.,0.06294844739222188,5.0
+25,#c49c94,5 to 10 minutes,0.04733,5.0,Endeavor Air Inc.,0.04733192643955381,10.0
+26,#c49c94,10 to 15 minutes,0.03696,10.0,Endeavor Air Inc.,0.036961109436237566,15.0
+27,#c49c94,15 to 20 minutes,0.03063,15.0,Endeavor Air Inc.,0.030630087428399157,20.0
+28,#c49c94,20 to 25 minutes,0.02569,20.0,Endeavor Air Inc.,0.025685860717515826,25.0
+29,#c49c94,25 to 30 minutes,0.01942,25.0,Endeavor Air Inc.,0.01941513415737112,30.0
+30,#c49c94,30 to 35 minutes,0.01881,30.0,Endeavor Air Inc.,0.018812179680434127,35.0
+31,#c49c94,35 to 40 minutes,0.01501,35.0,Endeavor Air Inc.,0.015013566475731082,40.0
+32,#c49c94,40 to 45 minutes,0.01447,40.0,Endeavor Air Inc.,0.01447090744648779,45.0
+33,#c49c94,45 to 50 minutes,0.01194,45.0,Endeavor Air Inc.,0.011938498643352427,50.0
+34,#c49c94,50 to 55 minutes,0.00941,50.0,Endeavor Air Inc.,0.009406089840217064,55.0
+35,#c49c94,55 to 60 minutes,0.00923,55.0,Endeavor Air Inc.,0.009225203497135966,60.0
+36,#c49c94,60 to 65 minutes,0.00814,60.0,Endeavor Air Inc.,0.008139885438649382,65.0
+37,#c49c94,65 to 70 minutes,0.00742,65.0,Endeavor Air Inc.,0.007416340066324993,70.0
+38,#c49c94,70 to 75 minutes,0.00766,70.0,Endeavor Air Inc.,0.007657521857099789,75.0
+39,#c49c94,75 to 80 minutes,0.00651,75.0,Endeavor Air Inc.,0.0065119083509195055,80.0
+40,#c49c94,80 to 85 minutes,0.00633,80.0,Endeavor Air Inc.,0.006331022007838408,85.0
+41,#c49c94,85 to 90 minutes,0.00645,85.0,Endeavor Air Inc.,0.0064516129032258064,90.0
+42,#c49c94,90 to 95 minutes,0.00591,90.0,Endeavor Air Inc.,0.005908953873982515,95.0
+43,#c49c94,95 to 100 minutes,0.00428,95.0,Endeavor Air Inc.,0.004280976786252638,100.0
+44,#c49c94,100 to 105 minutes,0.00404,100.0,Endeavor Air Inc.,0.004039794995477842,105.0
+45,#c49c94,105 to 110 minutes,0.00416,105.0,Endeavor Air Inc.,0.00416038589086524,110.0
+46,#c49c94,110 to 115 minutes,0.00362,110.0,Endeavor Air Inc.,0.0036177268616219473,115.0
+47,#c49c94,115 to 120 minutes,0.00476,115.0,Endeavor Air Inc.,0.004763340367802231,120.0
+0,#98df8a,-120 to -115 minutes,0.00000,-120.0,Envoy Air,0.0,-115.0
+1,#98df8a,-115 to -110 minutes,0.00000,-115.0,Envoy Air,0.0,-110.0
+2,#98df8a,-110 to -105 minutes,0.00000,-110.0,Envoy Air,0.0,-105.0
+3,#98df8a,-105 to -100 minutes,0.00000,-105.0,Envoy Air,0.0,-100.0
+4,#98df8a,-100 to -95 minutes,0.00000,-100.0,Envoy Air,0.0,-95.0
+5,#98df8a,-95 to -90 minutes,0.00000,-95.0,Envoy Air,0.0,-90.0
+6,#98df8a,-90 to -85 minutes,0.00000,-90.0,Envoy Air,0.0,-85.0
+7,#98df8a,-85 to -80 minutes,0.00000,-85.0,Envoy Air,0.0,-80.0
+8,#98df8a,-80 to -75 minutes,0.00000,-80.0,Envoy Air,0.0,-75.0
+9,#98df8a,-75 to -70 minutes,0.00000,-75.0,Envoy Air,0.0,-70.0
+10,#98df8a,-70 to -65 minutes,0.00000,-70.0,Envoy Air,0.0,-65.0
+11,#98df8a,-65 to -60 minutes,0.00000,-65.0,Envoy Air,0.0,-60.0
+12,#98df8a,-60 to -55 minutes,0.00000,-60.0,Envoy Air,0.0,-55.0
+13,#98df8a,-55 to -50 minutes,0.00004,-55.0,Envoy Air,4.110658938627862e-05,-50.0
+14,#98df8a,-50 to -45 minutes,0.00021,-50.0,Envoy Air,0.0002055329469313931,-45.0
+15,#98df8a,-45 to -40 minutes,0.00123,-45.0,Envoy Air,0.0012331976815883586,-40.0
+16,#98df8a,-40 to -35 minutes,0.00448,-40.0,Envoy Air,0.0044806182431043695,-35.0
+17,#98df8a,-35 to -30 minutes,0.01299,-35.0,Envoy Air,0.012989682246064045,-30.0
+18,#98df8a,-30 to -25 minutes,0.03165,-30.0,Envoy Air,0.03165207382743454,-25.0
+19,#98df8a,-25 to -20 minutes,0.05895,-25.0,Envoy Air,0.058946849179923544,-20.0
+20,#98df8a,-20 to -15 minutes,0.08780,-20.0,Envoy Air,0.08780367492909114,-15.0
+21,#98df8a,-15 to -10 minutes,0.10955,-15.0,Envoy Air,0.10954906071443252,-10.0
+22,#98df8a,-10 to -5 minutes,0.11395,-10.0,Envoy Air,0.11394746577876434,-5.0
+23,#98df8a,-5 to 0 minutes,0.10762,-5.0,Envoy Air,0.10761705101327743,0.0
+24,#98df8a,0 to 5 minutes,0.08678,0.0,Envoy Air,0.08677601019443416,5.0
+25,#98df8a,5 to 10 minutes,0.06881,5.0,Envoy Air,0.06881243063263041,10.0
+26,#98df8a,10 to 15 minutes,0.05796,10.0,Envoy Air,0.057960291034652854,15.0
+27,#98df8a,15 to 20 minutes,0.04263,15.0,Envoy Air,0.04262753319357093,20.0
+28,#98df8a,20 to 25 minutes,0.03161,20.0,Envoy Air,0.03161096723804826,25.0
+29,#98df8a,25 to 30 minutes,0.02618,25.0,Envoy Air,0.026184897439059482,30.0
+30,#98df8a,30 to 35 minutes,0.02096,30.0,Envoy Air,0.020964360587002098,35.0
+31,#98df8a,35 to 40 minutes,0.01907,35.0,Envoy Air,0.01907345747523328,40.0
+32,#98df8a,40 to 45 minutes,0.01418,40.0,Envoy Air,0.014181773338266123,45.0
+33,#98df8a,45 to 50 minutes,0.01307,45.0,Envoy Air,0.013071895424836602,50.0
+34,#98df8a,50 to 55 minutes,0.01143,50.0,Envoy Air,0.011427631849385457,55.0
+35,#98df8a,55 to 60 minutes,0.01056,55.0,Envoy Air,0.010564393472273606,60.0
+36,#98df8a,60 to 65 minutes,0.01032,60.0,Envoy Air,0.010317753935955933,65.0
+37,#98df8a,65 to 70 minutes,0.00797,65.0,Envoy Air,0.007974678340938053,70.0
+38,#98df8a,70 to 75 minutes,0.00777,70.0,Envoy Air,0.00776914539400666,75.0
+39,#98df8a,75 to 80 minutes,0.00633,75.0,Envoy Air,0.006330414765486908,80.0
+40,#98df8a,80 to 85 minutes,0.00617,80.0,Envoy Air,0.006165988407941793,85.0
+41,#98df8a,85 to 90 minutes,0.00534,85.0,Envoy Air,0.0053438566202162205,90.0
+42,#98df8a,90 to 95 minutes,0.00534,90.0,Envoy Air,0.0053438566202162205,95.0
+43,#98df8a,95 to 100 minutes,0.00485,95.0,Envoy Air,0.004850577547580877,100.0
+44,#98df8a,100 to 105 minutes,0.00428,100.0,Envoy Air,0.004275085296172976,105.0
+45,#98df8a,105 to 110 minutes,0.00288,105.0,Envoy Air,0.0028774612570395034,110.0
+46,#98df8a,110 to 115 minutes,0.00341,110.0,Envoy Air,0.0034118469190611254,115.0
+47,#98df8a,115 to 120 minutes,0.00362,115.0,Envoy Air,0.0036173798659925186,120.0
+0,#2ca02c,-120 to -115 minutes,0.00000,-120.0,ExpressJet Airlines Inc.,0.0,-115.0
+1,#2ca02c,-115 to -110 minutes,0.00000,-115.0,ExpressJet Airlines Inc.,0.0,-110.0
+2,#2ca02c,-110 to -105 minutes,0.00000,-110.0,ExpressJet Airlines Inc.,0.0,-105.0
+3,#2ca02c,-105 to -100 minutes,0.00000,-105.0,ExpressJet Airlines Inc.,0.0,-100.0
+4,#2ca02c,-100 to -95 minutes,0.00000,-100.0,ExpressJet Airlines Inc.,0.0,-95.0
+5,#2ca02c,-95 to -90 minutes,0.00000,-95.0,ExpressJet Airlines Inc.,0.0,-90.0
+6,#2ca02c,-90 to -85 minutes,0.00000,-90.0,ExpressJet Airlines Inc.,0.0,-85.0
+7,#2ca02c,-85 to -80 minutes,0.00000,-85.0,ExpressJet Airlines Inc.,0.0,-80.0
+8,#2ca02c,-80 to -75 minutes,0.00000,-80.0,ExpressJet Airlines Inc.,0.0,-75.0
+9,#2ca02c,-75 to -70 minutes,0.00000,-75.0,ExpressJet Airlines Inc.,0.0,-70.0
+10,#2ca02c,-70 to -65 minutes,0.00000,-70.0,ExpressJet Airlines Inc.,0.0,-65.0
+11,#2ca02c,-65 to -60 minutes,0.00006,-65.0,ExpressJet Airlines Inc.,6.167255982238303e-05,-60.0
+12,#2ca02c,-60 to -55 minutes,0.00008,-60.0,ExpressJet Airlines Inc.,8.223007976317738e-05,-55.0
+13,#2ca02c,-55 to -50 minutes,0.00031,-55.0,ExpressJet Airlines Inc.,0.00030836279911191516,-50.0
+14,#2ca02c,-50 to -45 minutes,0.00095,-50.0,ExpressJet Airlines Inc.,0.0009456459172765397,-45.0
+15,#2ca02c,-45 to -40 minutes,0.00251,-45.0,ExpressJet Airlines Inc.,0.0025080174327769098,-40.0
+16,#2ca02c,-40 to -35 minutes,0.00814,-40.0,ExpressJet Airlines Inc.,0.00814077789655456,-35.0
+17,#2ca02c,-35 to -30 minutes,0.01653,-35.0,ExpressJet Airlines Inc.,0.016528246032398653,-30.0
+18,#2ca02c,-30 to -25 minutes,0.03713,-30.0,ExpressJet Airlines Inc.,0.037126881013074584,-25.0
+19,#2ca02c,-25 to -20 minutes,0.06289,-25.0,ExpressJet Airlines Inc.,0.0628854534988899,-20.0
+20,#2ca02c,-20 to -15 minutes,0.09378,-20.0,ExpressJet Airlines Inc.,0.0937834059699038,-15.0
+21,#2ca02c,-15 to -10 minutes,0.10641,-15.0,ExpressJet Airlines Inc.,0.10640572321355152,-10.0
+22,#2ca02c,-10 to -5 minutes,0.10741,-10.0,ExpressJet Airlines Inc.,0.10741304169065044,-5.0
+23,#2ca02c,-5 to 0 minutes,0.09467,-5.0,ExpressJet Airlines Inc.,0.09466737932735794,0.0
+24,#2ca02c,0 to 5 minutes,0.07582,0.0,ExpressJet Airlines Inc.,0.07581613354164954,5.0
+25,#2ca02c,5 to 10 minutes,0.05966,5.0,ExpressJet Airlines Inc.,0.059657922868185186,10.0
+26,#2ca02c,10 to 15 minutes,0.04720,10.0,ExpressJet Airlines Inc.,0.04720006578406381,15.0
+27,#2ca02c,15 to 20 minutes,0.03624,15.0,ExpressJet Airlines Inc.,0.036242907655620424,20.0
+28,#2ca02c,20 to 25 minutes,0.03051,20.0,ExpressJet Airlines Inc.,0.030507359592138805,25.0
+29,#2ca02c,25 to 30 minutes,0.02543,25.0,ExpressJet Airlines Inc.,0.0254296521667626,30.0
+30,#2ca02c,30 to 35 minutes,0.02292,30.0,ExpressJet Airlines Inc.,0.02292163473398569,35.0
+31,#2ca02c,35 to 40 minutes,0.01934,35.0,ExpressJet Airlines Inc.,0.019344626264287478,40.0
+32,#2ca02c,40 to 45 minutes,0.01696,40.0,ExpressJet Airlines Inc.,0.01695995395115533,45.0
+33,#2ca02c,45 to 50 minutes,0.01581,45.0,ExpressJet Airlines Inc.,0.01580873283447085,50.0
+34,#2ca02c,50 to 55 minutes,0.01511,50.0,ExpressJet Airlines Inc.,0.015109777156483841,55.0
+35,#2ca02c,55 to 60 minutes,0.01262,55.0,ExpressJet Airlines Inc.,0.012622317243647726,60.0
+36,#2ca02c,60 to 65 minutes,0.01190,60.0,ExpressJet Airlines Inc.,0.011902804045719924,65.0
+37,#2ca02c,65 to 70 minutes,0.01024,65.0,ExpressJet Airlines Inc.,0.010237644930515582,70.0
+38,#2ca02c,70 to 75 minutes,0.00999,70.0,ExpressJet Airlines Inc.,0.00999095469122605,75.0
+39,#2ca02c,75 to 80 minutes,0.00909,75.0,ExpressJet Airlines Inc.,0.0090864238138311,80.0
+40,#2ca02c,80 to 85 minutes,0.00835,80.0,ExpressJet Airlines Inc.,0.008346353095962503,85.0
+41,#2ca02c,85 to 90 minutes,0.00736,85.0,ExpressJet Airlines Inc.,0.007359592138804375,90.0
+42,#2ca02c,90 to 95 minutes,0.00654,90.0,ExpressJet Airlines Inc.,0.006537291341172601,95.0
+43,#2ca02c,95 to 100 minutes,0.00662,95.0,ExpressJet Airlines Inc.,0.006619521420935778,100.0
+44,#2ca02c,100 to 105 minutes,0.00615,100.0,ExpressJet Airlines Inc.,0.006146698462297508,105.0
+45,#2ca02c,105 to 110 minutes,0.00495,105.0,ExpressJet Airlines Inc.,0.004954362305731436,110.0
+46,#2ca02c,110 to 115 minutes,0.00530,110.0,ExpressJet Airlines Inc.,0.00530384014472494,115.0
+47,#2ca02c,115 to 120 minutes,0.00504,115.0,ExpressJet Airlines Inc.,0.005036592385494614,120.0
+0,#e377c2,-120 to -115 minutes,0.00000,-120.0,Frontier Airlines Inc.,0.0,-115.0
+1,#e377c2,-115 to -110 minutes,0.00000,-115.0,Frontier Airlines Inc.,0.0,-110.0
+2,#e377c2,-110 to -105 minutes,0.00000,-110.0,Frontier Airlines Inc.,0.0,-105.0
+3,#e377c2,-105 to -100 minutes,0.00000,-105.0,Frontier Airlines Inc.,0.0,-100.0
+4,#e377c2,-100 to -95 minutes,0.00000,-100.0,Frontier Airlines Inc.,0.0,-95.0
+5,#e377c2,-95 to -90 minutes,0.00000,-95.0,Frontier Airlines Inc.,0.0,-90.0
+6,#e377c2,-90 to -85 minutes,0.00000,-90.0,Frontier Airlines Inc.,0.0,-85.0
+7,#e377c2,-85 to -80 minutes,0.00000,-85.0,Frontier Airlines Inc.,0.0,-80.0
+8,#e377c2,-80 to -75 minutes,0.00000,-80.0,Frontier Airlines Inc.,0.0,-75.0
+9,#e377c2,-75 to -70 minutes,0.00000,-75.0,Frontier Airlines Inc.,0.0,-70.0
+10,#e377c2,-70 to -65 minutes,0.00000,-70.0,Frontier Airlines Inc.,0.0,-65.0
+11,#e377c2,-65 to -60 minutes,0.00000,-65.0,Frontier Airlines Inc.,0.0,-60.0
+12,#e377c2,-60 to -55 minutes,0.00000,-60.0,Frontier Airlines Inc.,0.0,-55.0
+13,#e377c2,-55 to -50 minutes,0.00000,-55.0,Frontier Airlines Inc.,0.0,-50.0
+14,#e377c2,-50 to -45 minutes,0.00156,-50.0,Frontier Airlines Inc.,0.001564945226917058,-45.0
+15,#e377c2,-45 to -40 minutes,0.00000,-45.0,Frontier Airlines Inc.,0.0,-40.0
+16,#e377c2,-40 to -35 minutes,0.00313,-40.0,Frontier Airlines Inc.,0.003129890453834116,-35.0
+17,#e377c2,-35 to -30 minutes,0.00939,-35.0,Frontier Airlines Inc.,0.009389671361502348,-30.0
+18,#e377c2,-30 to -25 minutes,0.02660,-30.0,Frontier Airlines Inc.,0.026604068857589983,-25.0
+19,#e377c2,-25 to -20 minutes,0.07199,-25.0,Frontier Airlines Inc.,0.07198748043818466,-20.0
+20,#e377c2,-20 to -15 minutes,0.05790,-20.0,Frontier Airlines Inc.,0.057902973395931145,-15.0
+21,#e377c2,-15 to -10 minutes,0.06886,-15.0,Frontier Airlines Inc.,0.06885758998435054,-10.0
+22,#e377c2,-10 to -5 minutes,0.09233,-10.0,Frontier Airlines Inc.,0.09233176838810642,-5.0
+23,#e377c2,-5 to 0 minutes,0.09233,-5.0,Frontier Airlines Inc.,0.09233176838810642,0.0
+24,#e377c2,0 to 5 minutes,0.09233,0.0,Frontier Airlines Inc.,0.09233176838810642,5.0
+25,#e377c2,5 to 10 minutes,0.07042,5.0,Frontier Airlines Inc.,0.07042253521126761,10.0
+26,#e377c2,10 to 15 minutes,0.06573,10.0,Frontier Airlines Inc.,0.06572769953051644,15.0
+27,#e377c2,15 to 20 minutes,0.05790,15.0,Frontier Airlines Inc.,0.057902973395931145,20.0
+28,#e377c2,20 to 25 minutes,0.05477,20.0,Frontier Airlines Inc.,0.054773082942097026,25.0
+29,#e377c2,25 to 30 minutes,0.02973,25.0,Frontier Airlines Inc.,0.0297339593114241,30.0
+30,#e377c2,30 to 35 minutes,0.03599,30.0,Frontier Airlines Inc.,0.03599374021909233,35.0
+31,#e377c2,35 to 40 minutes,0.03130,35.0,Frontier Airlines Inc.,0.03129890453834116,40.0
+32,#e377c2,40 to 45 minutes,0.02973,40.0,Frontier Airlines Inc.,0.0297339593114241,45.0
+33,#e377c2,45 to 50 minutes,0.01252,45.0,Frontier Airlines Inc.,0.012519561815336464,50.0
+34,#e377c2,50 to 55 minutes,0.01408,50.0,Frontier Airlines Inc.,0.014084507042253521,55.0
+35,#e377c2,55 to 60 minutes,0.01095,55.0,Frontier Airlines Inc.,0.010954616588419406,60.0
+36,#e377c2,60 to 65 minutes,0.00626,60.0,Frontier Airlines Inc.,0.006259780907668232,65.0
+37,#e377c2,65 to 70 minutes,0.00939,65.0,Frontier Airlines Inc.,0.009389671361502348,70.0
+38,#e377c2,70 to 75 minutes,0.00939,70.0,Frontier Airlines Inc.,0.009389671361502348,75.0
+39,#e377c2,75 to 80 minutes,0.00782,75.0,Frontier Airlines Inc.,0.00782472613458529,80.0
+40,#e377c2,80 to 85 minutes,0.00782,80.0,Frontier Airlines Inc.,0.00782472613458529,85.0
+41,#e377c2,85 to 90 minutes,0.00469,85.0,Frontier Airlines Inc.,0.004694835680751174,90.0
+42,#e377c2,90 to 95 minutes,0.00469,90.0,Frontier Airlines Inc.,0.004694835680751174,95.0
+43,#e377c2,95 to 100 minutes,0.00626,95.0,Frontier Airlines Inc.,0.006259780907668232,100.0
+44,#e377c2,100 to 105 minutes,0.00939,100.0,Frontier Airlines Inc.,0.009389671361502348,105.0
+45,#e377c2,105 to 110 minutes,0.00156,105.0,Frontier Airlines Inc.,0.001564945226917058,110.0
+46,#e377c2,110 to 115 minutes,0.00156,110.0,Frontier Airlines Inc.,0.001564945226917058,115.0
+47,#e377c2,115 to 120 minutes,0.00156,115.0,Frontier Airlines Inc.,0.001564945226917058,120.0
+0,#f7b6d2,-120 to -115 minutes,0.00000,-120.0,Hawaiian Airlines Inc.,0.0,-115.0
+1,#f7b6d2,-115 to -110 minutes,0.00000,-115.0,Hawaiian Airlines Inc.,0.0,-110.0
+2,#f7b6d2,-110 to -105 minutes,0.00000,-110.0,Hawaiian Airlines Inc.,0.0,-105.0
+3,#f7b6d2,-105 to -100 minutes,0.00000,-105.0,Hawaiian Airlines Inc.,0.0,-100.0
+4,#f7b6d2,-100 to -95 minutes,0.00000,-100.0,Hawaiian Airlines Inc.,0.0,-95.0
+5,#f7b6d2,-95 to -90 minutes,0.00000,-95.0,Hawaiian Airlines Inc.,0.0,-90.0
+6,#f7b6d2,-90 to -85 minutes,0.00000,-90.0,Hawaiian Airlines Inc.,0.0,-85.0
+7,#f7b6d2,-85 to -80 minutes,0.00000,-85.0,Hawaiian Airlines Inc.,0.0,-80.0
+8,#f7b6d2,-80 to -75 minutes,0.00000,-80.0,Hawaiian Airlines Inc.,0.0,-75.0
+9,#f7b6d2,-75 to -70 minutes,0.00000,-75.0,Hawaiian Airlines Inc.,0.0,-70.0
+10,#f7b6d2,-70 to -65 minutes,0.00297,-70.0,Hawaiian Airlines Inc.,0.002967359050445104,-65.0
+11,#f7b6d2,-65 to -60 minutes,0.01187,-65.0,Hawaiian Airlines Inc.,0.011869436201780416,-60.0
+12,#f7b6d2,-60 to -55 minutes,0.02967,-60.0,Hawaiian Airlines Inc.,0.02967359050445104,-55.0
+13,#f7b6d2,-55 to -50 minutes,0.01780,-55.0,Hawaiian Airlines Inc.,0.017804154302670624,-50.0
+14,#f7b6d2,-50 to -45 minutes,0.00890,-50.0,Hawaiian Airlines Inc.,0.008902077151335312,-45.0
+15,#f7b6d2,-45 to -40 minutes,0.04451,-45.0,Hawaiian Airlines Inc.,0.04451038575667656,-40.0
+16,#f7b6d2,-40 to -35 minutes,0.03561,-40.0,Hawaiian Airlines Inc.,0.03560830860534125,-35.0
+17,#f7b6d2,-35 to -30 minutes,0.06825,-35.0,Hawaiian Airlines Inc.,0.06824925816023739,-30.0
+18,#f7b6d2,-30 to -25 minutes,0.08012,-30.0,Hawaiian Airlines Inc.,0.08011869436201781,-25.0
+19,#f7b6d2,-25 to -20 minutes,0.07122,-25.0,Hawaiian Airlines Inc.,0.0712166172106825,-20.0
+20,#f7b6d2,-20 to -15 minutes,0.09199,-20.0,Hawaiian Airlines Inc.,0.09198813056379822,-15.0
+21,#f7b6d2,-15 to -10 minutes,0.08012,-15.0,Hawaiian Airlines Inc.,0.08011869436201781,-10.0
+22,#f7b6d2,-10 to -5 minutes,0.09199,-10.0,Hawaiian Airlines Inc.,0.09198813056379822,-5.0
+23,#f7b6d2,-5 to 0 minutes,0.08012,-5.0,Hawaiian Airlines Inc.,0.08011869436201781,0.0
+24,#f7b6d2,0 to 5 minutes,0.06825,0.0,Hawaiian Airlines Inc.,0.06824925816023739,5.0
+25,#f7b6d2,5 to 10 minutes,0.03858,5.0,Hawaiian Airlines Inc.,0.03857566765578635,10.0
+26,#f7b6d2,10 to 15 minutes,0.06231,10.0,Hawaiian Airlines Inc.,0.06231454005934718,15.0
+27,#f7b6d2,15 to 20 minutes,0.02671,15.0,Hawaiian Airlines Inc.,0.026706231454005934,20.0
+28,#f7b6d2,20 to 25 minutes,0.02967,20.0,Hawaiian Airlines Inc.,0.02967359050445104,25.0
+29,#f7b6d2,25 to 30 minutes,0.01484,25.0,Hawaiian Airlines Inc.,0.01483679525222552,30.0
+30,#f7b6d2,30 to 35 minutes,0.01187,30.0,Hawaiian Airlines Inc.,0.011869436201780416,35.0
+31,#f7b6d2,35 to 40 minutes,0.01484,35.0,Hawaiian Airlines Inc.,0.01483679525222552,40.0
+32,#f7b6d2,40 to 45 minutes,0.00297,40.0,Hawaiian Airlines Inc.,0.002967359050445104,45.0
+33,#f7b6d2,45 to 50 minutes,0.00000,45.0,Hawaiian Airlines Inc.,0.0,50.0
+34,#f7b6d2,50 to 55 minutes,0.00297,50.0,Hawaiian Airlines Inc.,0.002967359050445104,55.0
+35,#f7b6d2,55 to 60 minutes,0.00297,55.0,Hawaiian Airlines Inc.,0.002967359050445104,60.0
+36,#f7b6d2,60 to 65 minutes,0.00000,60.0,Hawaiian Airlines Inc.,0.0,65.0
+37,#f7b6d2,65 to 70 minutes,0.00297,65.0,Hawaiian Airlines Inc.,0.002967359050445104,70.0
+38,#f7b6d2,70 to 75 minutes,0.00000,70.0,Hawaiian Airlines Inc.,0.0,75.0
+39,#f7b6d2,75 to 80 minutes,0.00000,75.0,Hawaiian Airlines Inc.,0.0,80.0
+40,#f7b6d2,80 to 85 minutes,0.00593,80.0,Hawaiian Airlines Inc.,0.005934718100890208,85.0
+41,#f7b6d2,85 to 90 minutes,0.00000,85.0,Hawaiian Airlines Inc.,0.0,90.0
+42,#f7b6d2,90 to 95 minutes,0.00000,90.0,Hawaiian Airlines Inc.,0.0,95.0
+43,#f7b6d2,95 to 100 minutes,0.00000,95.0,Hawaiian Airlines Inc.,0.0,100.0
+44,#f7b6d2,100 to 105 minutes,0.00000,100.0,Hawaiian Airlines Inc.,0.0,105.0
+45,#f7b6d2,105 to 110 minutes,0.00000,105.0,Hawaiian Airlines Inc.,0.0,110.0
+46,#f7b6d2,110 to 115 minutes,0.00000,110.0,Hawaiian Airlines Inc.,0.0,115.0
+47,#f7b6d2,115 to 120 minutes,0.00000,115.0,Hawaiian Airlines Inc.,0.0,120.0
+0,#ff7f0e,-120 to -115 minutes,0.00000,-120.0,JetBlue Airways,0.0,-115.0
+1,#ff7f0e,-115 to -110 minutes,0.00000,-115.0,JetBlue Airways,0.0,-110.0
+2,#ff7f0e,-110 to -105 minutes,0.00000,-110.0,JetBlue Airways,0.0,-105.0
+3,#ff7f0e,-105 to -100 minutes,0.00000,-105.0,JetBlue Airways,0.0,-100.0
+4,#ff7f0e,-100 to -95 minutes,0.00000,-100.0,JetBlue Airways,0.0,-95.0
+5,#ff7f0e,-95 to -90 minutes,0.00000,-95.0,JetBlue Airways,0.0,-90.0
+6,#ff7f0e,-90 to -85 minutes,0.00000,-90.0,JetBlue Airways,0.0,-85.0
+7,#ff7f0e,-85 to -80 minutes,0.00000,-85.0,JetBlue Airways,0.0,-80.0
+8,#ff7f0e,-80 to -75 minutes,0.00000,-80.0,JetBlue Airways,0.0,-75.0
+9,#ff7f0e,-75 to -70 minutes,0.00002,-75.0,JetBlue Airways,1.912484700122399e-05,-70.0
+10,#ff7f0e,-70 to -65 minutes,0.00008,-70.0,JetBlue Airways,7.649938800489595e-05,-65.0
+11,#ff7f0e,-65 to -60 minutes,0.00031,-65.0,JetBlue Airways,0.0003059975520195838,-60.0
+12,#ff7f0e,-60 to -55 minutes,0.00061,-60.0,JetBlue Airways,0.0006119951040391676,-55.0
+13,#ff7f0e,-55 to -50 minutes,0.00109,-55.0,JetBlue Airways,0.0010901162790697674,-50.0
+14,#ff7f0e,-50 to -45 minutes,0.00233,-50.0,JetBlue Airways,0.002333231334149327,-45.0
+15,#ff7f0e,-45 to -40 minutes,0.00484,-45.0,JetBlue Airways,0.00483858629130967,-40.0
+16,#ff7f0e,-40 to -35 minutes,0.00878,-40.0,JetBlue Airways,0.00877830477356181,-35.0
+17,#ff7f0e,-35 to -30 minutes,0.01880,-35.0,JetBlue Airways,0.018799724602203183,-30.0
+18,#ff7f0e,-30 to -25 minutes,0.03573,-30.0,JetBlue Airways,0.03572521419828641,-25.0
+19,#ff7f0e,-25 to -20 minutes,0.06248,-25.0,JetBlue Airways,0.06248087515299878,-20.0
+20,#ff7f0e,-20 to -15 minutes,0.09691,-20.0,JetBlue Airways,0.09690559975520195,-15.0
+21,#ff7f0e,-15 to -10 minutes,0.11724,-15.0,JetBlue Airways,0.11723531211750306,-10.0
+22,#ff7f0e,-10 to -5 minutes,0.11465,-10.0,JetBlue Airways,0.11465345777233782,-5.0
+23,#ff7f0e,-5 to 0 minutes,0.10060,-5.0,JetBlue Airways,0.10059669522643819,0.0
+24,#ff7f0e,0 to 5 minutes,0.08021,0.0,JetBlue Airways,0.08020960832313341,5.0
+25,#ff7f0e,5 to 10 minutes,0.06196,5.0,JetBlue Airways,0.06196450428396573,10.0
+26,#ff7f0e,10 to 15 minutes,0.04846,10.0,JetBlue Airways,0.04846236230110159,15.0
+27,#ff7f0e,15 to 20 minutes,0.03894,15.0,JetBlue Airways,0.03893818849449204,20.0
+28,#ff7f0e,20 to 25 minutes,0.03077,20.0,JetBlue Airways,0.0307718788249694,25.0
+29,#ff7f0e,25 to 30 minutes,0.02446,25.0,JetBlue Airways,0.024460679314565484,30.0
+30,#ff7f0e,30 to 35 minutes,0.02062,30.0,JetBlue Airways,0.020616585067319462,35.0
+31,#ff7f0e,35 to 40 minutes,0.01796,35.0,JetBlue Airways,0.017958231334149328,40.0
+32,#ff7f0e,40 to 45 minutes,0.01534,40.0,JetBlue Airways,0.01533812729498164,45.0
+33,#ff7f0e,45 to 50 minutes,0.01327,45.0,JetBlue Airways,0.013272643818849449,50.0
+34,#ff7f0e,50 to 55 minutes,0.01058,50.0,JetBlue Airways,0.010576040391676866,55.0
+35,#ff7f0e,55 to 60 minutes,0.00981,55.0,JetBlue Airways,0.009811046511627907,60.0
+36,#ff7f0e,60 to 65 minutes,0.00887,60.0,JetBlue Airways,0.008873929008567932,65.0
+37,#ff7f0e,65 to 70 minutes,0.00767,65.0,JetBlue Airways,0.00766906364749082,70.0
+38,#ff7f0e,70 to 75 minutes,0.00635,70.0,JetBlue Airways,0.006349449204406365,75.0
+39,#ff7f0e,75 to 80 minutes,0.00633,75.0,JetBlue Airways,0.006330324357405141,80.0
+40,#ff7f0e,80 to 85 minutes,0.00578,80.0,JetBlue Airways,0.005775703794369645,85.0
+41,#ff7f0e,85 to 90 minutes,0.00495,85.0,JetBlue Airways,0.004953335373317013,90.0
+42,#ff7f0e,90 to 95 minutes,0.00442,90.0,JetBlue Airways,0.004417839657282742,95.0
+43,#ff7f0e,95 to 100 minutes,0.00440,95.0,JetBlue Airways,0.004398714810281518,100.0
+44,#ff7f0e,100 to 105 minutes,0.00402,100.0,JetBlue Airways,0.004016217870257038,105.0
+45,#ff7f0e,105 to 110 minutes,0.00339,105.0,JetBlue Airways,0.0033850979192166465,110.0
+46,#ff7f0e,110 to 115 minutes,0.00335,110.0,JetBlue Airways,0.0033468482252141983,115.0
+47,#ff7f0e,115 to 120 minutes,0.00365,115.0,JetBlue Airways,0.003652845777233782,120.0
+0,#7f7f7f,-120 to -115 minutes,0.00000,-120.0,Mesa Airlines Inc.,0.0,-115.0
+1,#7f7f7f,-115 to -110 minutes,0.00000,-115.0,Mesa Airlines Inc.,0.0,-110.0
+2,#7f7f7f,-110 to -105 minutes,0.00000,-110.0,Mesa Airlines Inc.,0.0,-105.0
+3,#7f7f7f,-105 to -100 minutes,0.00000,-105.0,Mesa Airlines Inc.,0.0,-100.0
+4,#7f7f7f,-100 to -95 minutes,0.00000,-100.0,Mesa Airlines Inc.,0.0,-95.0
+5,#7f7f7f,-95 to -90 minutes,0.00000,-95.0,Mesa Airlines Inc.,0.0,-90.0
+6,#7f7f7f,-90 to -85 minutes,0.00000,-90.0,Mesa Airlines Inc.,0.0,-85.0
+7,#7f7f7f,-85 to -80 minutes,0.00000,-85.0,Mesa Airlines Inc.,0.0,-80.0
+8,#7f7f7f,-80 to -75 minutes,0.00000,-80.0,Mesa Airlines Inc.,0.0,-75.0
+9,#7f7f7f,-75 to -70 minutes,0.00000,-75.0,Mesa Airlines Inc.,0.0,-70.0
+10,#7f7f7f,-70 to -65 minutes,0.00000,-70.0,Mesa Airlines Inc.,0.0,-65.0
+11,#7f7f7f,-65 to -60 minutes,0.00000,-65.0,Mesa Airlines Inc.,0.0,-60.0
+12,#7f7f7f,-60 to -55 minutes,0.00000,-60.0,Mesa Airlines Inc.,0.0,-55.0
+13,#7f7f7f,-55 to -50 minutes,0.00000,-55.0,Mesa Airlines Inc.,0.0,-50.0
+14,#7f7f7f,-50 to -45 minutes,0.00390,-50.0,Mesa Airlines Inc.,0.003898635477582846,-45.0
+15,#7f7f7f,-45 to -40 minutes,0.00585,-45.0,Mesa Airlines Inc.,0.005847953216374269,-40.0
+16,#7f7f7f,-40 to -35 minutes,0.00585,-40.0,Mesa Airlines Inc.,0.005847953216374269,-35.0
+17,#7f7f7f,-35 to -30 minutes,0.03509,-35.0,Mesa Airlines Inc.,0.03508771929824561,-30.0
+18,#7f7f7f,-30 to -25 minutes,0.04094,-30.0,Mesa Airlines Inc.,0.04093567251461988,-25.0
+19,#7f7f7f,-25 to -20 minutes,0.07797,-25.0,Mesa Airlines Inc.,0.07797270955165692,-20.0
+20,#7f7f7f,-20 to -15 minutes,0.11696,-20.0,Mesa Airlines Inc.,0.11695906432748537,-15.0
+21,#7f7f7f,-15 to -10 minutes,0.12281,-15.0,Mesa Airlines Inc.,0.12280701754385964,-10.0
+22,#7f7f7f,-10 to -5 minutes,0.07992,-10.0,Mesa Airlines Inc.,0.07992202729044834,-5.0
+23,#7f7f7f,-5 to 0 minutes,0.05653,-5.0,Mesa Airlines Inc.,0.056530214424951264,0.0
+24,#7f7f7f,0 to 5 minutes,0.06238,0.0,Mesa Airlines Inc.,0.06237816764132553,5.0
+25,#7f7f7f,5 to 10 minutes,0.05653,5.0,Mesa Airlines Inc.,0.056530214424951264,10.0
+26,#7f7f7f,10 to 15 minutes,0.04678,10.0,Mesa Airlines Inc.,0.04678362573099415,15.0
+27,#7f7f7f,15 to 20 minutes,0.04483,15.0,Mesa Airlines Inc.,0.04483430799220273,20.0
+28,#7f7f7f,20 to 25 minutes,0.03899,20.0,Mesa Airlines Inc.,0.03898635477582846,25.0
+29,#7f7f7f,25 to 30 minutes,0.01949,25.0,Mesa Airlines Inc.,0.01949317738791423,30.0
+30,#7f7f7f,30 to 35 minutes,0.00975,30.0,Mesa Airlines Inc.,0.009746588693957114,35.0
+31,#7f7f7f,35 to 40 minutes,0.01559,35.0,Mesa Airlines Inc.,0.015594541910331383,40.0
+32,#7f7f7f,40 to 45 minutes,0.01365,40.0,Mesa Airlines Inc.,0.01364522417153996,45.0
+33,#7f7f7f,45 to 50 minutes,0.01754,45.0,Mesa Airlines Inc.,0.017543859649122806,50.0
+34,#7f7f7f,50 to 55 minutes,0.01559,50.0,Mesa Airlines Inc.,0.015594541910331383,55.0
+35,#7f7f7f,55 to 60 minutes,0.02534,55.0,Mesa Airlines Inc.,0.025341130604288498,60.0
+36,#7f7f7f,60 to 65 minutes,0.01559,60.0,Mesa Airlines Inc.,0.015594541910331383,65.0
+37,#7f7f7f,65 to 70 minutes,0.01170,65.0,Mesa Airlines Inc.,0.011695906432748537,70.0
+38,#7f7f7f,70 to 75 minutes,0.00780,70.0,Mesa Airlines Inc.,0.007797270955165692,75.0
+39,#7f7f7f,75 to 80 minutes,0.01170,75.0,Mesa Airlines Inc.,0.011695906432748537,80.0
+40,#7f7f7f,80 to 85 minutes,0.00585,80.0,Mesa Airlines Inc.,0.005847953216374269,85.0
+41,#7f7f7f,85 to 90 minutes,0.00390,85.0,Mesa Airlines Inc.,0.003898635477582846,90.0
+42,#7f7f7f,90 to 95 minutes,0.00585,90.0,Mesa Airlines Inc.,0.005847953216374269,95.0
+43,#7f7f7f,95 to 100 minutes,0.00975,95.0,Mesa Airlines Inc.,0.009746588693957114,100.0
+44,#7f7f7f,100 to 105 minutes,0.00780,100.0,Mesa Airlines Inc.,0.007797270955165692,105.0
+45,#7f7f7f,105 to 110 minutes,0.00585,105.0,Mesa Airlines Inc.,0.005847953216374269,110.0
+46,#7f7f7f,110 to 115 minutes,0.00195,110.0,Mesa Airlines Inc.,0.001949317738791423,115.0
+47,#7f7f7f,115 to 120 minutes,0.00000,115.0,Mesa Airlines Inc.,0.0,120.0
+0,#c7c7c7,-120 to -115 minutes,0.00000,-120.0,SkyWest Airlines Inc.,0.0,-115.0
+1,#c7c7c7,-115 to -110 minutes,0.00000,-115.0,SkyWest Airlines Inc.,0.0,-110.0
+2,#c7c7c7,-110 to -105 minutes,0.00000,-110.0,SkyWest Airlines Inc.,0.0,-105.0
+3,#c7c7c7,-105 to -100 minutes,0.00000,-105.0,SkyWest Airlines Inc.,0.0,-100.0
+4,#c7c7c7,-100 to -95 minutes,0.00000,-100.0,SkyWest Airlines Inc.,0.0,-95.0
+5,#c7c7c7,-95 to -90 minutes,0.00000,-95.0,SkyWest Airlines Inc.,0.0,-90.0
+6,#c7c7c7,-90 to -85 minutes,0.00000,-90.0,SkyWest Airlines Inc.,0.0,-85.0
+7,#c7c7c7,-85 to -80 minutes,0.00000,-85.0,SkyWest Airlines Inc.,0.0,-80.0
+8,#c7c7c7,-80 to -75 minutes,0.00000,-80.0,SkyWest Airlines Inc.,0.0,-75.0
+9,#c7c7c7,-75 to -70 minutes,0.00000,-75.0,SkyWest Airlines Inc.,0.0,-70.0
+10,#c7c7c7,-70 to -65 minutes,0.00000,-70.0,SkyWest Airlines Inc.,0.0,-65.0
+11,#c7c7c7,-65 to -60 minutes,0.00000,-65.0,SkyWest Airlines Inc.,0.0,-60.0
+12,#c7c7c7,-60 to -55 minutes,0.00000,-60.0,SkyWest Airlines Inc.,0.0,-55.0
+13,#c7c7c7,-55 to -50 minutes,0.00000,-55.0,SkyWest Airlines Inc.,0.0,-50.0
+14,#c7c7c7,-50 to -45 minutes,0.00000,-50.0,SkyWest Airlines Inc.,0.0,-45.0
+15,#c7c7c7,-45 to -40 minutes,0.00000,-45.0,SkyWest Airlines Inc.,0.0,-40.0
+16,#c7c7c7,-40 to -35 minutes,0.00000,-40.0,SkyWest Airlines Inc.,0.0,-35.0
+17,#c7c7c7,-35 to -30 minutes,0.00000,-35.0,SkyWest Airlines Inc.,0.0,-30.0
+18,#c7c7c7,-30 to -25 minutes,0.03704,-30.0,SkyWest Airlines Inc.,0.037037037037037035,-25.0
+19,#c7c7c7,-25 to -20 minutes,0.11111,-25.0,SkyWest Airlines Inc.,0.1111111111111111,-20.0
+20,#c7c7c7,-20 to -15 minutes,0.14815,-20.0,SkyWest Airlines Inc.,0.14814814814814814,-15.0
+21,#c7c7c7,-15 to -10 minutes,0.11111,-15.0,SkyWest Airlines Inc.,0.1111111111111111,-10.0
+22,#c7c7c7,-10 to -5 minutes,0.22222,-10.0,SkyWest Airlines Inc.,0.2222222222222222,-5.0
+23,#c7c7c7,-5 to 0 minutes,0.07407,-5.0,SkyWest Airlines Inc.,0.07407407407407407,0.0
+24,#c7c7c7,0 to 5 minutes,0.07407,0.0,SkyWest Airlines Inc.,0.07407407407407407,5.0
+25,#c7c7c7,5 to 10 minutes,0.03704,5.0,SkyWest Airlines Inc.,0.037037037037037035,10.0
+26,#c7c7c7,10 to 15 minutes,0.00000,10.0,SkyWest Airlines Inc.,0.0,15.0
+27,#c7c7c7,15 to 20 minutes,0.00000,15.0,SkyWest Airlines Inc.,0.0,20.0
+28,#c7c7c7,20 to 25 minutes,0.00000,20.0,SkyWest Airlines Inc.,0.0,25.0
+29,#c7c7c7,25 to 30 minutes,0.03704,25.0,SkyWest Airlines Inc.,0.037037037037037035,30.0
+30,#c7c7c7,30 to 35 minutes,0.00000,30.0,SkyWest Airlines Inc.,0.0,35.0
+31,#c7c7c7,35 to 40 minutes,0.00000,35.0,SkyWest Airlines Inc.,0.0,40.0
+32,#c7c7c7,40 to 45 minutes,0.00000,40.0,SkyWest Airlines Inc.,0.0,45.0
+33,#c7c7c7,45 to 50 minutes,0.07407,45.0,SkyWest Airlines Inc.,0.07407407407407407,50.0
+34,#c7c7c7,50 to 55 minutes,0.00000,50.0,SkyWest Airlines Inc.,0.0,55.0
+35,#c7c7c7,55 to 60 minutes,0.00000,55.0,SkyWest Airlines Inc.,0.0,60.0
+36,#c7c7c7,60 to 65 minutes,0.00000,60.0,SkyWest Airlines Inc.,0.0,65.0
+37,#c7c7c7,65 to 70 minutes,0.03704,65.0,SkyWest Airlines Inc.,0.037037037037037035,70.0
+38,#c7c7c7,70 to 75 minutes,0.00000,70.0,SkyWest Airlines Inc.,0.0,75.0
+39,#c7c7c7,75 to 80 minutes,0.00000,75.0,SkyWest Airlines Inc.,0.0,80.0
+40,#c7c7c7,80 to 85 minutes,0.00000,80.0,SkyWest Airlines Inc.,0.0,85.0
+41,#c7c7c7,85 to 90 minutes,0.00000,85.0,SkyWest Airlines Inc.,0.0,90.0
+42,#c7c7c7,90 to 95 minutes,0.00000,90.0,SkyWest Airlines Inc.,0.0,95.0
+43,#c7c7c7,95 to 100 minutes,0.00000,95.0,SkyWest Airlines Inc.,0.0,100.0
+44,#c7c7c7,100 to 105 minutes,0.00000,100.0,SkyWest Airlines Inc.,0.0,105.0
+45,#c7c7c7,105 to 110 minutes,0.03704,105.0,SkyWest Airlines Inc.,0.037037037037037035,110.0
+46,#c7c7c7,110 to 115 minutes,0.00000,110.0,SkyWest Airlines Inc.,0.0,115.0
+47,#c7c7c7,115 to 120 minutes,0.00000,115.0,SkyWest Airlines Inc.,0.0,120.0
+0,#ff9896,-120 to -115 minutes,0.00000,-120.0,Southwest Airlines Co.,0.0,-115.0
+1,#ff9896,-115 to -110 minutes,0.00000,-115.0,Southwest Airlines Co.,0.0,-110.0
+2,#ff9896,-110 to -105 minutes,0.00000,-110.0,Southwest Airlines Co.,0.0,-105.0
+3,#ff9896,-105 to -100 minutes,0.00000,-105.0,Southwest Airlines Co.,0.0,-100.0
+4,#ff9896,-100 to -95 minutes,0.00000,-100.0,Southwest Airlines Co.,0.0,-95.0
+5,#ff9896,-95 to -90 minutes,0.00000,-95.0,Southwest Airlines Co.,0.0,-90.0
+6,#ff9896,-90 to -85 minutes,0.00000,-90.0,Southwest Airlines Co.,0.0,-85.0
+7,#ff9896,-85 to -80 minutes,0.00000,-85.0,Southwest Airlines Co.,0.0,-80.0
+8,#ff9896,-80 to -75 minutes,0.00000,-80.0,Southwest Airlines Co.,0.0,-75.0
+9,#ff9896,-75 to -70 minutes,0.00000,-75.0,Southwest Airlines Co.,0.0,-70.0
+10,#ff9896,-70 to -65 minutes,0.00000,-70.0,Southwest Airlines Co.,0.0,-65.0
+11,#ff9896,-65 to -60 minutes,0.00000,-65.0,Southwest Airlines Co.,0.0,-60.0
+12,#ff9896,-60 to -55 minutes,0.00035,-60.0,Southwest Airlines Co.,0.00034518467380048324,-55.0
+13,#ff9896,-55 to -50 minutes,0.00104,-55.0,Southwest Airlines Co.,0.0010355540214014498,-50.0
+14,#ff9896,-50 to -45 minutes,0.00242,-50.0,Southwest Airlines Co.,0.002416292716603383,-45.0
+15,#ff9896,-45 to -40 minutes,0.00570,-45.0,Southwest Airlines Co.,0.005695547117707974,-40.0
+16,#ff9896,-40 to -35 minutes,0.01303,-40.0,Southwest Airlines Co.,0.013030721435968243,-35.0
+17,#ff9896,-35 to -30 minutes,0.02399,-35.0,Southwest Airlines Co.,0.023990334829133587,-30.0
+18,#ff9896,-30 to -25 minutes,0.04384,-30.0,Southwest Airlines Co.,0.043838453572661376,-25.0
+19,#ff9896,-25 to -20 minutes,0.06653,-25.0,Southwest Airlines Co.,0.06653434587504314,-20.0
+20,#ff9896,-20 to -15 minutes,0.09225,-20.0,Southwest Airlines Co.,0.09225060407317916,-15.0
+21,#ff9896,-15 to -10 minutes,0.10459,-15.0,Southwest Airlines Co.,0.10459095616154643,-10.0
+22,#ff9896,-10 to -5 minutes,0.10701,-10.0,Southwest Airlines Co.,0.10700724887814982,-5.0
+23,#ff9896,-5 to 0 minutes,0.10131,-5.0,Southwest Airlines Co.,0.10131170176044184,0.0
+24,#ff9896,0 to 5 minutes,0.08612,0.0,Southwest Airlines Co.,0.08612357611322058,5.0
+25,#ff9896,5 to 10 minutes,0.07171,5.0,Southwest Airlines Co.,0.07171211598205039,10.0
+26,#ff9896,10 to 15 minutes,0.05247,10.0,Southwest Airlines Co.,0.05246807041767346,15.0
+27,#ff9896,15 to 20 minutes,0.04211,15.0,Southwest Airlines Co.,0.04211253020365896,20.0
+28,#ff9896,20 to 25 minutes,0.03020,20.0,Southwest Airlines Co.,0.030203658957542286,25.0
+29,#ff9896,25 to 30 minutes,0.02373,25.0,Southwest Airlines Co.,0.023731446323783226,30.0
+30,#ff9896,30 to 35 minutes,0.02011,30.0,Southwest Airlines Co.,0.02010700724887815,35.0
+31,#ff9896,35 to 40 minutes,0.01467,35.0,Southwest Airlines Co.,0.014670348636520539,40.0
+32,#ff9896,40 to 45 minutes,0.01441,40.0,Southwest Airlines Co.,0.014411460131170176,45.0
+33,#ff9896,45 to 50 minutes,0.01001,45.0,Southwest Airlines Co.,0.010010355540214014,50.0
+34,#ff9896,50 to 55 minutes,0.00889,50.0,Southwest Airlines Co.,0.008888505350362444,55.0
+35,#ff9896,55 to 60 minutes,0.00897,55.0,Southwest Airlines Co.,0.008974801518812565,60.0
+36,#ff9896,60 to 65 minutes,0.00725,60.0,Southwest Airlines Co.,0.007248878149810148,65.0
+37,#ff9896,65 to 70 minutes,0.00570,65.0,Southwest Airlines Co.,0.005695547117707974,70.0
+38,#ff9896,70 to 75 minutes,0.00690,70.0,Southwest Airlines Co.,0.0069036934760096655,75.0
+39,#ff9896,75 to 80 minutes,0.00492,75.0,Southwest Airlines Co.,0.004918881601656887,80.0
+40,#ff9896,80 to 85 minutes,0.00440,80.0,Southwest Airlines Co.,0.004401104590956162,85.0
+41,#ff9896,85 to 90 minutes,0.00362,85.0,Southwest Airlines Co.,0.003624439074905074,90.0
+42,#ff9896,90 to 95 minutes,0.00440,90.0,Southwest Airlines Co.,0.004401104590956162,95.0
+43,#ff9896,95 to 100 minutes,0.00371,95.0,Southwest Airlines Co.,0.003710735243355195,100.0
+44,#ff9896,100 to 105 minutes,0.00397,100.0,Southwest Airlines Co.,0.003969623748705558,105.0
+45,#ff9896,105 to 110 minutes,0.00414,105.0,Southwest Airlines Co.,0.004142216085605799,110.0
+46,#ff9896,110 to 115 minutes,0.00250,110.0,Southwest Airlines Co.,0.0025025888850535036,115.0
+47,#ff9896,115 to 120 minutes,0.00302,115.0,Southwest Airlines Co.,0.0030203658957542287,120.0
+0,#d62728,-120 to -115 minutes,0.00000,-120.0,US Airways Inc.,0.0,-115.0
+1,#d62728,-115 to -110 minutes,0.00000,-115.0,US Airways Inc.,0.0,-110.0
+2,#d62728,-110 to -105 minutes,0.00000,-110.0,US Airways Inc.,0.0,-105.0
+3,#d62728,-105 to -100 minutes,0.00000,-105.0,US Airways Inc.,0.0,-100.0
+4,#d62728,-100 to -95 minutes,0.00000,-100.0,US Airways Inc.,0.0,-95.0
+5,#d62728,-95 to -90 minutes,0.00000,-95.0,US Airways Inc.,0.0,-90.0
+6,#d62728,-90 to -85 minutes,0.00000,-90.0,US Airways Inc.,0.0,-85.0
+7,#d62728,-85 to -80 minutes,0.00000,-85.0,US Airways Inc.,0.0,-80.0
+8,#d62728,-80 to -75 minutes,0.00000,-80.0,US Airways Inc.,0.0,-75.0
+9,#d62728,-75 to -70 minutes,0.00000,-75.0,US Airways Inc.,0.0,-70.0
+10,#d62728,-70 to -65 minutes,0.00005,-70.0,US Airways Inc.,5.1150895140664964e-05,-65.0
+11,#d62728,-65 to -60 minutes,0.00010,-65.0,US Airways Inc.,0.00010230179028132993,-60.0
+12,#d62728,-60 to -55 minutes,0.00031,-60.0,US Airways Inc.,0.00030690537084398974,-55.0
+13,#d62728,-55 to -50 minutes,0.00102,-55.0,US Airways Inc.,0.0010230179028132991,-50.0
+14,#d62728,-50 to -45 minutes,0.00138,-50.0,US Airways Inc.,0.001381074168797954,-45.0
+15,#d62728,-45 to -40 minutes,0.00302,-45.0,US Airways Inc.,0.003017902813299233,-40.0
+16,#d62728,-40 to -35 minutes,0.00660,-40.0,US Airways Inc.,0.00659846547314578,-35.0
+17,#d62728,-35 to -30 minutes,0.01524,-35.0,US Airways Inc.,0.015242966751918158,-30.0
+18,#d62728,-30 to -25 minutes,0.03642,-30.0,US Airways Inc.,0.03641943734015345,-25.0
+19,#d62728,-25 to -20 minutes,0.06987,-25.0,US Airways Inc.,0.06987212276214834,-20.0
+20,#d62728,-20 to -15 minutes,0.11217,-20.0,US Airways Inc.,0.11217391304347826,-15.0
+21,#d62728,-15 to -10 minutes,0.13376,-15.0,US Airways Inc.,0.13375959079283886,-10.0
+22,#d62728,-10 to -5 minutes,0.13023,-10.0,US Airways Inc.,0.130230179028133,-5.0
+23,#d62728,-5 to 0 minutes,0.10941,-5.0,US Airways Inc.,0.10941176470588235,0.0
+24,#d62728,0 to 5 minutes,0.08864,0.0,US Airways Inc.,0.08864450127877238,5.0
+25,#d62728,5 to 10 minutes,0.06783,5.0,US Airways Inc.,0.06782608695652174,10.0
+26,#d62728,10 to 15 minutes,0.04737,10.0,US Airways Inc.,0.047365728900255755,15.0
+27,#d62728,15 to 20 minutes,0.03488,15.0,US Airways Inc.,0.03488491048593351,20.0
+28,#d62728,20 to 25 minutes,0.02655,20.0,US Airways Inc.,0.026547314578005115,25.0
+29,#d62728,25 to 30 minutes,0.02087,25.0,US Airways Inc.,0.020869565217391306,30.0
+30,#d62728,30 to 35 minutes,0.01647,30.0,US Airways Inc.,0.01647058823529412,35.0
+31,#d62728,35 to 40 minutes,0.01202,35.0,US Airways Inc.,0.012020460358056265,40.0
+32,#d62728,40 to 45 minutes,0.01049,40.0,US Airways Inc.,0.010485933503836318,45.0
+33,#d62728,45 to 50 minutes,0.00834,45.0,US Airways Inc.,0.008337595907928388,50.0
+34,#d62728,50 to 55 minutes,0.00691,50.0,US Airways Inc.,0.00690537084398977,55.0
+35,#d62728,55 to 60 minutes,0.00506,55.0,US Airways Inc.,0.005063938618925831,60.0
+36,#d62728,60 to 65 minutes,0.00593,60.0,US Airways Inc.,0.005933503836317136,65.0
+37,#d62728,65 to 70 minutes,0.00460,65.0,US Airways Inc.,0.004603580562659846,70.0
+38,#d62728,70 to 75 minutes,0.00358,70.0,US Airways Inc.,0.0035805626598465474,75.0
+39,#d62728,75 to 80 minutes,0.00307,75.0,US Airways Inc.,0.003069053708439898,80.0
+40,#d62728,80 to 85 minutes,0.00343,80.0,US Airways Inc.,0.0034271099744245526,85.0
+41,#d62728,85 to 90 minutes,0.00292,85.0,US Airways Inc.,0.002915601023017903,90.0
+42,#d62728,90 to 95 minutes,0.00230,90.0,US Airways Inc.,0.002301790281329923,95.0
+43,#d62728,95 to 100 minutes,0.00215,95.0,US Airways Inc.,0.002148337595907928,100.0
+44,#d62728,100 to 105 minutes,0.00174,100.0,US Airways Inc.,0.0017391304347826088,105.0
+45,#d62728,105 to 110 minutes,0.00164,105.0,US Airways Inc.,0.0016368286445012788,110.0
+46,#d62728,110 to 115 minutes,0.00179,110.0,US Airways Inc.,0.0017902813299232737,115.0
+47,#d62728,115 to 120 minutes,0.00184,115.0,US Airways Inc.,0.0018414322250639387,120.0
+0,#1f77b4,-120 to -115 minutes,0.00000,-120.0,United Air Lines Inc.,0.0,-115.0
+1,#1f77b4,-115 to -110 minutes,0.00000,-115.0,United Air Lines Inc.,0.0,-110.0
+2,#1f77b4,-110 to -105 minutes,0.00000,-110.0,United Air Lines Inc.,0.0,-105.0
+3,#1f77b4,-105 to -100 minutes,0.00000,-105.0,United Air Lines Inc.,0.0,-100.0
+4,#1f77b4,-100 to -95 minutes,0.00000,-100.0,United Air Lines Inc.,0.0,-95.0
+5,#1f77b4,-95 to -90 minutes,0.00000,-95.0,United Air Lines Inc.,0.0,-90.0
+6,#1f77b4,-90 to -85 minutes,0.00000,-90.0,United Air Lines Inc.,0.0,-85.0
+7,#1f77b4,-85 to -80 minutes,0.00000,-85.0,United Air Lines Inc.,0.0,-80.0
+8,#1f77b4,-80 to -75 minutes,0.00000,-80.0,United Air Lines Inc.,0.0,-75.0
+9,#1f77b4,-75 to -70 minutes,0.00005,-75.0,United Air Lines Inc.,5.317357627749517e-05,-70.0
+10,#1f77b4,-70 to -65 minutes,0.00023,-70.0,United Air Lines Inc.,0.0002304188305358124,-65.0
+11,#1f77b4,-65 to -60 minutes,0.00078,-65.0,United Air Lines Inc.,0.0007798791187365958,-60.0
+12,#1f77b4,-60 to -55 minutes,0.00124,-60.0,United Air Lines Inc.,0.0012407167798082206,-55.0
+13,#1f77b4,-55 to -50 minutes,0.00287,-55.0,United Air Lines Inc.,0.002871373118984739,-50.0
+14,#1f77b4,-50 to -45 minutes,0.00656,-50.0,United Air Lines Inc.,0.006558074407557737,-45.0
+15,#1f77b4,-45 to -40 minutes,0.01255,-45.0,United Air Lines Inc.,0.01254896400148886,-40.0
+16,#1f77b4,-40 to -35 minutes,0.02258,-40.0,United Air Lines Inc.,0.022581045392509616,-35.0
+17,#1f77b4,-35 to -30 minutes,0.03781,-35.0,United Air Lines Inc.,0.037806412733299065,-30.0
+18,#1f77b4,-30 to -25 minutes,0.05604,-30.0,United Air Lines Inc.,0.05604494939647991,-25.0
+19,#1f77b4,-25 to -20 minutes,0.07783,-25.0,United Air Lines Inc.,0.07782839114482709,-20.0
+20,#1f77b4,-20 to -15 minutes,0.09757,-20.0,United Air Lines Inc.,0.09757351246920364,-15.0
+21,#1f77b4,-15 to -10 minutes,0.10606,-15.0,United Air Lines Inc.,0.10606356014817703,-10.0
+22,#1f77b4,-10 to -5 minutes,0.09965,-10.0,United Air Lines Inc.,0.09964728194402594,-5.0
+23,#1f77b4,-5 to 0 minutes,0.09219,-5.0,United Air Lines Inc.,0.0921852567397508,0.0
+24,#1f77b4,0 to 5 minutes,0.07444,0.0,United Air Lines Inc.,0.07444300678849324,5.0
+25,#1f77b4,5 to 10 minutes,0.05854,5.0,United Air Lines Inc.,0.05854410748152218,10.0
+26,#1f77b4,10 to 15 minutes,0.04667,10.0,United Air Lines Inc.,0.046668675446214926,15.0
+27,#1f77b4,15 to 20 minutes,0.03564,15.0,United Air Lines Inc.,0.0356440206313476,20.0
+28,#1f77b4,20 to 25 minutes,0.02710,20.0,United Air Lines Inc.,0.027100799376096704,25.0
+29,#1f77b4,25 to 30 minutes,0.02363,25.0,United Air Lines Inc.,0.023626792392633687,30.0
+30,#1f77b4,30 to 35 minutes,0.01834,30.0,United Air Lines Inc.,0.018344883815735832,35.0
+31,#1f77b4,35 to 40 minutes,0.01515,35.0,United Air Lines Inc.,0.015154469239086123,40.0
+32,#1f77b4,40 to 45 minutes,0.01203,40.0,United Air Lines Inc.,0.012034952764139741,45.0
+33,#1f77b4,45 to 50 minutes,0.01085,45.0,United Air Lines Inc.,0.010847409560609015,50.0
+34,#1f77b4,50 to 55 minutes,0.00911,50.0,United Air Lines Inc.,0.009110406068877506,55.0
+35,#1f77b4,55 to 60 minutes,0.00760,55.0,United Air Lines Inc.,0.0076038214076818095,60.0
+36,#1f77b4,60 to 65 minutes,0.00608,60.0,United Air Lines Inc.,0.006079512221060281,65.0
+37,#1f77b4,65 to 70 minutes,0.00613,65.0,United Air Lines Inc.,0.006132685797337776,70.0
+38,#1f77b4,70 to 75 minutes,0.00518,70.0,United Air Lines Inc.,0.005175561424342863,75.0
+39,#1f77b4,75 to 80 minutes,0.00496,75.0,United Air Lines Inc.,0.004962867119232882,80.0
+40,#1f77b4,80 to 85 minutes,0.00436,80.0,United Air Lines Inc.,0.0043602332547546035,85.0
+41,#1f77b4,85 to 90 minutes,0.00370,85.0,United Air Lines Inc.,0.00370442581399883,90.0
+42,#1f77b4,90 to 95 minutes,0.00354,90.0,United Air Lines Inc.,0.0035449050851663446,95.0
+43,#1f77b4,95 to 100 minutes,0.00330,95.0,United Air Lines Inc.,0.0032967617292047006,100.0
+44,#1f77b4,100 to 105 minutes,0.00289,100.0,United Air Lines Inc.,0.002889097644410571,105.0
+45,#1f77b4,105 to 110 minutes,0.00248,105.0,United Air Lines Inc.,0.002481433559616441,110.0
+46,#1f77b4,110 to 115 minutes,0.00206,110.0,United Air Lines Inc.,0.0020560449493964798,115.0
+47,#1f77b4,115 to 120 minutes,0.00218,115.0,United Air Lines Inc.,0.0021801166273773018,120.0
+0,#9467bd,-120 to -115 minutes,0.00000,-120.0,Virgin America,0.0,-115.0
+1,#9467bd,-115 to -110 minutes,0.00000,-115.0,Virgin America,0.0,-110.0
+2,#9467bd,-110 to -105 minutes,0.00000,-110.0,Virgin America,0.0,-105.0
+3,#9467bd,-105 to -100 minutes,0.00000,-105.0,Virgin America,0.0,-100.0
+4,#9467bd,-100 to -95 minutes,0.00000,-100.0,Virgin America,0.0,-95.0
+5,#9467bd,-95 to -90 minutes,0.00000,-95.0,Virgin America,0.0,-90.0
+6,#9467bd,-90 to -85 minutes,0.00020,-90.0,Virgin America,0.00020238818053025704,-85.0
+7,#9467bd,-85 to -80 minutes,0.00000,-85.0,Virgin America,0.0,-80.0
+8,#9467bd,-80 to -75 minutes,0.00020,-80.0,Virgin America,0.00020238818053025704,-75.0
+9,#9467bd,-75 to -70 minutes,0.00000,-75.0,Virgin America,0.0,-70.0
+10,#9467bd,-70 to -65 minutes,0.00162,-70.0,Virgin America,0.0016191054442420564,-65.0
+11,#9467bd,-65 to -60 minutes,0.00223,-65.0,Virgin America,0.002226269985832827,-60.0
+12,#9467bd,-60 to -55 minutes,0.00364,-60.0,Virgin America,0.0036429872495446266,-55.0
+13,#9467bd,-55 to -50 minutes,0.00729,-55.0,Virgin America,0.007285974499089253,-50.0
+14,#9467bd,-50 to -45 minutes,0.01477,-50.0,Virgin America,0.014774337178708763,-45.0
+15,#9467bd,-45 to -40 minutes,0.02591,-45.0,Virgin America,0.025905687107872902,-40.0
+16,#9467bd,-40 to -35 minutes,0.03481,-40.0,Virgin America,0.03481076705120421,-35.0
+17,#9467bd,-35 to -30 minutes,0.05161,-35.0,Virgin America,0.05160898603521554,-30.0
+18,#9467bd,-30 to -25 minutes,0.07468,-30.0,Virgin America,0.07468123861566485,-25.0
+19,#9467bd,-25 to -20 minutes,0.08946,-25.0,Virgin America,0.0894555757943736,-20.0
+20,#9467bd,-20 to -15 minutes,0.09411,-20.0,Virgin America,0.09411050394656952,-15.0
+21,#9467bd,-15 to -10 minutes,0.08986,-15.0,Virgin America,0.08986035215543413,-10.0
+22,#9467bd,-10 to -5 minutes,0.08865,-10.0,Virgin America,0.08864602307225258,-5.0
+23,#9467bd,-5 to 0 minutes,0.08399,-5.0,Virgin America,0.08399109492005667,0.0
+24,#9467bd,0 to 5 minutes,0.07812,0.0,Virgin America,0.07812183768467922,5.0
+25,#9467bd,5 to 10 minutes,0.05667,5.0,Virgin America,0.05666869054847197,10.0
+26,#9467bd,10 to 15 minutes,0.04412,10.0,Virgin America,0.044120623355596036,15.0
+27,#9467bd,15 to 20 minutes,0.02570,15.0,Virgin America,0.025703298927342643,20.0
+28,#9467bd,20 to 25 minutes,0.02186,20.0,Virgin America,0.02185792349726776,25.0
+29,#9467bd,25 to 30 minutes,0.01923,25.0,Virgin America,0.019226877150374418,30.0
+30,#9467bd,30 to 35 minutes,0.01154,30.0,Virgin America,0.01153612629022465,35.0
+31,#9467bd,35 to 40 minutes,0.01113,35.0,Virgin America,0.011131349929164137,40.0
+32,#9467bd,40 to 45 minutes,0.00729,40.0,Virgin America,0.007285974499089253,45.0
+33,#9467bd,45 to 50 minutes,0.00607,45.0,Virgin America,0.006071645415907711,50.0
+34,#9467bd,50 to 55 minutes,0.00931,50.0,Virgin America,0.009309856304391824,55.0
+35,#9467bd,55 to 60 minutes,0.00445,55.0,Virgin America,0.004452539971665654,60.0
+36,#9467bd,60 to 65 minutes,0.00486,60.0,Virgin America,0.004857316332726169,65.0
+37,#9467bd,65 to 70 minutes,0.00364,65.0,Virgin America,0.0036429872495446266,70.0
+38,#9467bd,70 to 75 minutes,0.00304,70.0,Virgin America,0.0030358227079538553,75.0
+39,#9467bd,75 to 80 minutes,0.00445,75.0,Virgin America,0.004452539971665654,80.0
+40,#9467bd,80 to 85 minutes,0.00344,80.0,Virgin America,0.0034405990690143697,85.0
+41,#9467bd,85 to 90 minutes,0.00304,85.0,Virgin America,0.0030358227079538553,90.0
+42,#9467bd,90 to 95 minutes,0.00344,90.0,Virgin America,0.0034405990690143697,95.0
+43,#9467bd,95 to 100 minutes,0.00405,95.0,Virgin America,0.0040477636106051405,100.0
+44,#9467bd,100 to 105 minutes,0.00223,100.0,Virgin America,0.002226269985832827,105.0
+45,#9467bd,105 to 110 minutes,0.00385,105.0,Virgin America,0.0038453754300748835,110.0
+46,#9467bd,110 to 115 minutes,0.00202,110.0,Virgin America,0.0020238818053025702,115.0
+47,#9467bd,115 to 120 minutes,0.00344,115.0,Virgin America,0.0034405990690143697,120.0
