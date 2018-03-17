@@ -6,7 +6,7 @@ from bokeh.io import curdoc
 from bokeh.models import ColumnDataSource, HoverTool, Panel, Tabs, CheckboxGroup
 from bokeh.layouts import row, widgetbox
 
-by_carrier = pd.read_csv('../data/by_carrier.csv', index_col=0)
+by_carrier = pd.read_csv('data/by_carrier.csv', index_col=0)
 
 available_carriers = list(by_carrier['name'].unique())
 
