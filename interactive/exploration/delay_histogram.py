@@ -101,6 +101,8 @@ def make_plot(src):
 
     p.add_tools(hover)
 
+    p.legend.click_policy = 'hide'
+
     # Styling
     p = style(p)
 
