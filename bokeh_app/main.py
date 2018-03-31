@@ -32,7 +32,7 @@ tab1 = histogram_tab(flights)
 tab2 = density_tab(flights)
 tab3 = table_tab(flights)
 tab4 = map_tab(map_data, states)
-tab5 = route_tb(flights)
+tab5 = route_tab(flights)
 
 # Put all the tabs into one application
 tabs = Tabs(tabs = [tab1, tab2, tab3, tab4, tab5])
