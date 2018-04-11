@@ -5,8 +5,8 @@ Working, learning and sharing Bokeh visualizations!
 See my [medium blog posts](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4) about making bokeh apps. 
 
 Requirements:
--Python 3.6 (may work on other versions but has not been tested)
--bokeh 0.12.15 (bokeh is a work in progress so subsequents update may break functionality. I will try to update as I can.)
+* Python 3.6 (may work on other versions but has not been tested)
+* bokeh 0.12.15 (bokeh is a work in progress so subsequents update may break functionality. I will try to update as I can.)
 
 The main application is located in the `bokeh_app` folder. To run the application,
 open a command prompt, change to the directory containing `bokeh_app` and run
