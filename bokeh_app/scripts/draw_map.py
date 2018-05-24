@@ -101,19 +101,6 @@ def map_tab(map_data, states):
 		p.yaxis.visible = False
 		p.grid.visible = False
 
-		# Hover tooltip for flight lines
-		hover_line = HoverTool(tooltips=[('Airline', '@carrier'),
-									('Number of Flights', '@count'),
-									('Average Delay', '@mean_delay{0.0}'),
-									('Max Delay', '@max_delay{0.0}'),
-									('Min Delay', '@min_delay{0.0}')],
-						 line_policy = 'next')
-
-		# Hover tooltip for origin and destination
-		hover_circle = HoverTool(tooltips=[('Origin', '@origin'),
-										   ('Dest', '@dest'),
-										   ('Distance (miles)', '@distance')])
-
 		# States are drawn as patches
 		patches_glyph = p.patches(xs, ys, fill_alpha=0.2, fill_color = 'lightgray', 
 								  line_color="#884444", line_width=2, line_alpha=0.8)
@@ -137,9 +124,20 @@ def map_tab(map_data, states):
 		p.renderers.append(squares_glyph)
 		p.renderers.append(circles_glyph)
 
-		# Attach the appropriate glyphs to the appropriate hovertool
-		hover_line.renderers.append(lines_glyph)
-		hover_circle.renderers.append(circles_glyph)
+		# Hover tooltip for flight lines, assign only the line renderer
+		hover_line = HoverTool(tooltips=[('Airline', '@carrier'),
+									('Number of Flights', '@count'),
+									('Average Delay', '@mean_delay{0.0}'),
+									('Max Delay', '@max_delay{0.0}'),
+									('Min Delay', '@min_delay{0.0}')],
+							  line_policy = 'next',
+							  renderers = [lines_glyph])
+		
+		# Hover tooltip for origin and destination, assign only the line renderer
+		hover_circle = HoverTool(tooltips=[('Origin', '@origin'),
+										   ('Dest', '@dest'),
+										   ('Distance (miles)', '@distance')],
+								renderers = [circles_glyph])
 
 		# Position the location so it does not overlap plot
 		p.legend.location = (10, 50)
