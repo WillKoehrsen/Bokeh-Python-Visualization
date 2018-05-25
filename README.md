@@ -1,6 +1,6 @@
 # Bokeh-Python-Visualization
 
-A collection of Bokeh projects developed for learning and teaching Bokeh interactive plotting! 
+A Bokeh project developed for learning and teaching Bokeh interactive plotting! 
 
 See my [medium blog posts](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4) about making bokeh apps. 
 
