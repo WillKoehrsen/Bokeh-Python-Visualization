@@ -17,10 +17,7 @@ def map_tab(map_data, states):
 	# Function to make a dataset for the map based on a list of carriers
 	def make_dataset(carrier_list):
 		
-		# Subset to the carriers in the specified list
-		subset = map_data[map_data['carrier']['Unnamed: 3_level_1'].isin(
-														   carrier_list)]
-
+		
 		
 		# Dictionary mapping carriers to colors
 		color_dict = {carrier: color for carrier, color in zip(
@@ -48,7 +45,7 @@ def map_tab(map_data, states):
 		for carrier in carrier_list:
 
 			# Subset to the carrier
-			sub_carrier = subset[subset['carrier']['Unnamed: 3_level_1'] == carrier]
+			sub_carrier = map_data[map_data['carrier']['Unnamed: 3_level_1'] == carrier]
 
 			# Iterate through each route (origin to destination) for the carrier
 			for _, row in sub_carrier.iterrows():
