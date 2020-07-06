@@ -120,8 +120,7 @@ def histogram_tab(flights):
 	available_carriers = list(set(flights['name']))
 	available_carriers.sort()
 
-
-	airline_colors = Category20_16
+	airline_colors = list(Category20_16)  # updated to convert to list, enabling .sort() method
 	airline_colors.sort()
 		
 	carrier_selection = CheckboxGroup(labels=available_carriers, 
