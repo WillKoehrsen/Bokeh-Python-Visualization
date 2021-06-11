@@ -183,7 +183,7 @@ def map_tab(map_data, states):
 	available_carriers.sort()
 
 	airline_colors = Category20_16
-	airline_colors.sort()
+	airline_colors = sorted(airline_colors)
 
 	# Remove Alaska and Hawaii from states
 	if 'HI' in states: del states['HI']

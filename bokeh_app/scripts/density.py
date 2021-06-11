@@ -116,7 +116,7 @@ def density_tab(flights):
 	available_carriers.sort()
 
 	airline_colors = Category20_16
-	airline_colors.sort()
+	airline_colors = sorted(airline_colors)
 
 	# Carriers to plot
 	carrier_selection = CheckboxGroup(labels=available_carriers, 
